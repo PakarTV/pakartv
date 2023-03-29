@@ -8,9 +8,5 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
 http://210.210.155.35:80/dr9445/h/h15/02.m3u8 
 http://210.210.155.37sessioneb840bf4-25f3-11ed-9af7-9a7dadef5b77/dr9445/h/h16/01.m3u8
 
-#EXTINF:-1 tvg-id="blueantext", tvg-logo="https://i.ibb.co/KLSyc92/Rock-Extreme.png", Rock Extreme 
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102 #
-http://210.210.155.35:80/dr9445/h/h16/02.m3u8
-http://210.210.155.37/sessione775987a-25f3-11ed-8ba5-85009179245a/dr9445/h/h15/01.m3u8 
 
 
