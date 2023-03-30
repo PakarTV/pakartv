@@ -1,5 +1,185 @@
-#EXTINF:803, tvg-id="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_160.png" tvg-name="Astro Supersport 3"  group-title="Sport",Astro Supersport 3
-http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+#EXTINF:-1 tvg-id="mutv.gb" tvg-name="MUTV" tvg-logo="http://mysportz.tv:80/images/d203e0b7974c3d07bc87b9ae20d43c67.png" group-title="UK SPORTS",MUTV
+https://flextv.io:443/jerman/101010ttt/412711.ts#EXTINF:-1 tvg-id="UK: Racing TV HD" tvg-name="Racing TV HD" tvg-
+#EXTINF:-1 tvg-id="UK: SkySp Racing" tvg-name="SKY SPORTS RACING" tvg-logo="http://mysportz.tv:80/images/6560aaa9fb7bd9a03008b75ea10456ce.png" group-title="UK SPORTS",SKY SPORTS RACING
+https://flextv.io:443/jerman/101010ttt/201130.ts
+#EXTINF:-1 tvg-id="SSPORAC" tvg-name="SKY SPORTS RACING (D)" tvg-logo="https://flextv.io:443/images/IJaPY4U8hFsK9waGPUTHM0hN9Eyb7n1brXCIetdiQlbfEzZf5RTTaWpE2tpcyW-iaVq5KZuw97ZZ4SsKvIGpOQ.png" group-title="SKY SPORTS",SKY SPORTS RACING (D)
+https://flextv.io:443/jerman/101010ttt/779595.ts
+#EXTINF:-1 tvg-id="sky.sports.main.event.gb" tvg-name="SKY SPORTS MAIN EVENT" tvg-logo="http://mysportz.tv:80/images/0334b8f24eb18c5a649be28cabad287c.png" group-title="UK SPORTS",SKY SPORTS MAIN EVENT
+https://flextv.io:443/jerman/101010ttt/201132.ts
+#EXTINF:-1 tvg-id="SSPOMEH" tvg-name="SKY SPORTS MAIN EVENT (D)" tvg-logo="https://flextv.io:443/images/IJaPY4U8hFsK9waGPUTHMwNYqkiJhdM8mO334LQXumVWh6kUMDIjqh_oY9nBfyEFhp43-5hPBWle1-B63WEdWA.png" group-title="SKY SPORTS",SKY SPORTS MAIN EVENT (D)
+https://flextv.io:443/jerman/101010ttt/779596.ts
+#EXTINF:-1 tvg-id="UK: SkySp PL" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="http://mysportz.tv:80/images/79af07e5289939425326c731e868e03c.png" group-title="UK SPORTS",SKY SPORTS PREMIER LEAGUE
+https://flextv.io:443/jerman/101010ttt/201131.ts
+#EXTINF:-1 tvg-id="sky.sports.football.gb" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="http://mysportz.tv:80/images/4af069a173f673cd3ebde9603978287b.png" group-title="UK SPORTS",SKY SPORTS FOOTBALL
+https://flextv.io:443/jerman/101010ttt/201138.ts
+#EXTINF:-1 tvg-id="UK: SkySp Arena" tvg-name="SKY SPORTS ARENA" tvg-logo="http://mysportz.tv:80/images/e0d4d30cd21fcf00cd532b687680938d.png" group-title="UK SPORTS",SKY SPORTS ARENA
+https://flextv.io:443/jerman/101010ttt/201139.ts
+EXTINF:-1 tvg-id="UK: SkySp Action" tvg-name="SKY SPORTS ACTION" tvg-logo="http://mysportz.tv:80/images/74d9cde5f13c7c599730b55e44e5a82b.png" group-title="UK SPORTS",SKY SPORTS ACTION
+https://flextv.io:443/jerman/101010ttt/201136.ts
+#EXTINF:-1 tvg-id="UK: SkySp Mix HD" tvg-name="SKY SPORTS MIX" tvg-logo="http://mysportz.tv:80/images/3aed4655ef689499d05520dcf0f528f1.png" group-title="UK SPORTS",SKY SPORTS MIX
+https://flextv.io:443/jerman/101010ttt/201129.ts
+#EXTINF:-1 tvg-id="sky.sports.news.gb" tvg-name="SKY SPORTS NEWS" tvg-logo="http://mysportz.tv:80/images/5c52b933230433cea5f3d16ef2c64b96.png" group-title="UK SPORTS",SKY SPORTS NEWS
+https://flextv.io:443/jerman/101010ttt/201128.ts
+#EXTINF:-1 tvg-id="SSPOMXH" tvg-name="SKY SPORTS MIX (D)" tvg-logo="https://flextv.io:443/images/IJaPY4U8hFsK9waGPUTHMxm_UprrJ-ajELBY9t27eIWMVyIfBi6UxqzAo9FVYmceThGRTVxM6-kotKSi3cQP_A.png" group-title="SKY SPORTS",SKY SPORTS MIX (D)
+https://flextv.io:443/jerman/101010ttt/779597.ts
+#EXTINF:-1 tvg-id="SSPOPLH" tvg-name="SKY SPORTS PREMIER LEAGUE (D)" tvg-logo="https://flextv.io:443/images/IJaPY4U8hFsK9waGPUTHM-0lkUpcsbPOyCa9WPIjg9tJfmEG-EeNqDVDcujiPl0uj2amBltvZRkmuGw_Xs_2sw.png" group-title="SKY SPORTS",SKY SPORTS PREMIER LEAGUE (D)
+https://flextv.io:443/jerman/101010ttt/779594.ts
+#EXTINF:-1 tvg-id="SSPOFBH" tvg-name="SKY SPORTS FOOTBALL (D)" tvg-logo="https://flextv.io:443/images/IJaPY4U8hFsK9waGPUTHMxm_UprrJ-ajELBY9t27eIVEiM4qTgCWZGvFhGKCC1JEtqsaKkzznKzURX3r6A1g2w.png" group-title="SKY SPORTS",SKY SPORTS FOOTBALL (D)
+https://flextv.io:443/jerman/101010ttt/779593.ts
+#EXTINF:-1 tvg-id="SSPOCRH" tvg-name="SKY SPORTS CRICKET (D)" tvg-logo="https://flextv.io:443/images/IJaPY4U8hFsK9waGPUTHM6Mp5oBVoh04lqTNF-XgPSEZcLWQKhG8Z9Ax9yxEsy5ndgBkzj2KksjNELDYr2hVCg.png" group-title="SKY SPORTS",SKY SPORTS CRICKET (D)
+https://flextv.io:443/jerman/101010ttt/779592.ts
+#EXTINF:-1 tvg-id="SSPOGOD" tvg-name="SKY SPORTS GOLF (D)" tvg-logo="https://flextv.io:443/images/IJaPY4U8hFsK9waGPUTHM7kW8HPAt380KUhJbEmju3Tyu8ldBbXi6ZueomKDNsrj5Gz1-A2Gb1FfbQzcNbpXgg.png" group-title="SKY SPORTS",SKY SPORTS GOLF (D)
+https://flextv.io:443/jerman/101010ttt/779591.ts
+#EXTINF:-1 tvg-id="SSPOF1H" tvg-name="SKY SPORTS F1 (D)" tvg-logo="https://flextv.io:443/images/IJaPY4U8hFsK9waGPUTHM-0lkUpcsbPOyCa9WPIjg9vUTUabYKnL_hxOSYwxHF6mGmY42Yiv8uT-Nd10V5yUZw.png" group-title="SKY SPORTS",SKY SPORTS F1 (D)
+https://flextv.io:443/jerman/101010ttt/779590.ts
+#EXTINF:-1 tvg-id="SSPOACD" tvg-name="SKY SPORTS ACTION (D)" tvg-logo="https://flextv.io:443/images/IJaPY4U8hFsK9waGPUTHM6Mp5oBVoh04lqTNF-XgPSHeFLRjtc4B3VtpHwVkiz5fJSmARHaOS2xXENR4X97FpA.png" group-title="SKY SPORTS",SKY SPORTS ACTION (D)
+https://flextv.io:443/jerman/101010ttt/779589.ts
+#EXTINF:-1 tvg-id="SSPOARH" tvg-name="SKY SPORTS ARENA (D)" tvg-logo="https://flextv.io:443/images/IJaPY4U8hFsK9waGPUTHMxm_UprrJ-ajELBY9t27eIXpGiW6vJQSm__kxihlTSdTr6rlnfSSaSXwEvYHcZtwxQ.png" group-title="SKY SPORTS",SKY SPORTS ARENA (D)
+https://flextv.io:443/jerman/101010ttt/779588.ts
+#EXTINF:-1 tvg-id="SSPONED" tvg-name="SKY SPORTS NEWS (D)" tvg-logo="https://flextv.io:443/images/IJaPY4U8hFsK9waGPUTHM7kW8HPAt380KUhJbEmju3RQlot-ReTNHah3KYMndt0XqYUA93R0lzdwM5GBDwACdA.png" group-title="SKY SPORTS",SKY SPORTS NEWS (D)
+#EXTINF:-1 tvg-id="" tvg-name="Amazon UK Eurosport 1" tvg-logo="" group-title="UK SPORTS",Amazon UK Eurosport 1
+https://flextv.io:443/jerman/101010ttt/732816.ts
+#EXTINF:-1 tvg-id="UK: SkySp Cricket" tvg-name="SKY SPORTS CRICKET" tvg-logo="http://mysportz.tv:80/images/734eaa2c0dc0572de16989cc318ee26b.png" group-title="UK SPORTS",SKY SPORTS CRICKET
+https://flextv.io:443/jerman/101010ttt/201135.ts
+#EXTINF:-1 tvg-id="sky.sports.f1.gb" tvg-name="SKY SPORTS F1" tvg-logo="http://mysportz.tv:80/images/7c4bed3862151cebea769288111741a0.png" group-title="UK SPORTS",SKY SPORTS F1
+https://flextv.io:443/jerman/101010ttt/201134.ts
+#EXTINF:-1 tvg-id="UK: SkySp Golf HD" tvg-name="SKY SPORTS GOLF" tvg-
+logo="http://mysportz.tv:80/images/dcbcd9fff7adc3bd68c3e77aa6466dd8.png" group-title="UK SPORTS",SKY SPORTS GOLF
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://dstvguide.com/wp-content/uploads/2020/08/SuperSport-Football-Plus-Schedule.png" tvg-name="SUPERSPORT FOOTBAL PLUS HD"  group-title="SUPERSPORT",SUPERSPORT FOOTBAL PLUS HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/2628
+#EXTINF:-1 tvg-id="TS2" tvg-name="SuperSport Premier League | HD" tvg-logo="https://mysportz.tv/images/3f10a892bc072907be01da2aa90eec9e.png" group-title="SuperSport",SuperSport Premier League | HD
+https://flextv.io:443/jerman/101010ttt/171558.ts
+#EXTINF:-1 tvg-id="SSH" tvg-name="SuperSport La Liga | HD" tvg-logo="https://mysportz.tv/images/c357e5270742ffcd950c75a058971e51.png" group-title="SuperSport",SuperSport La Liga | HD
+https://flextv.io:443/jerman/101010ttt/171556.ts
+#EXTINF:-1 tvg-id="SH2" tvg-name="SuperSport PSL | HD" tvg-logo="https://mysportz.tv/images/efd76d1f9221d1432b130bf6b5420cf3.png" group-title="SuperSport",SuperSport PSL | HD
+https://flextv.io:443/jerman/101010ttt/171557.ts
+#EXTINF:-1 tvg-id="SH4" tvg-name="SuperSport Grandstand | HD" tvg-logo="https://mysportz.tv/images/5755312048119ad9c867794f774e4e26.png" group-title="SuperSport",SuperSport Grandstand | HD
+https://flextv.io:443/jerman/101010ttt/171559.ts
+#EXTINF:-1 tvg-id="HD5" tvg-name="SuperSport Variety 2 | HD" tvg-logo="https://mysportz.tv/images/33ff96edbd6a514fb88430026a4448a3.png" group-title="SuperSport",SuperSport Variety 2 | HD
+https://flextv.io:443/jerman/101010ttt/171560.ts
+#EXTINF:-1 tvg-id="HD7" tvg-name="SuperSport Action | HD" tvg-logo="https://mysportz.tv/images/a92670d43bd8c5138b689cb7141b6aae.png" group-title="SuperSport",SuperSport Action | HD
+https://flextv.io:443/jerman/101010ttt/171562.ts
+#EXTINF:-1 tvg-id="MSH" tvg-name="SuperSport Football | HD" tvg-logo="https://mysportz.tv/images/1d727ea00dde9a1ee0f38a5db46b440a.png" group-title="SuperSport",SuperSport Football | HD
+https://flextv.io:443/jerman/101010ttt/171563.ts
+#EXTINF:-1 tvg-id="9HD" tvg-name="SuperSport Variety 4 | HD" tvg-logo="https://mysportz.tv/images/1cc8eecf1a745cc75bf99964d6caa655.png" group-title="SuperSport",SuperSport Variety 4 | HD
+https://flextv.io:443/jerman/101010ttt/171564.ts
+#EXTINF:-1 tvg-id="34S" tvg-name="SuperSport Variety 3 | HD" tvg-logo="https://mysportz.tv/images/dc6353ccb49a507b3cb20fc50eb03207.png" group-title="SuperSport",SuperSport Variety 3 | HD
+https://flextv.io:443/jerman/101010ttt/171565.ts
+#EXTINF:-1 tvg-id="A11" tvg-name="SuperSport Rugby | HD" tvg-logo="https://mysportz.tv/images/e07cff9fb95710cdf5b0700f35f4a213.png" group-title="SuperSport",SuperSport Rugby | HD
+https://flextv.io:443/jerman/101010ttt/171566.ts
+#EXTINF:-1 tvg-id="12H" tvg-name="SuperSport Cricket | HD" tvg-logo="https://mysportz.tv/images/1ed399428feb0d359f897c4f6285f225.png" group-title="SuperSport",SuperSport Cricket | HD
+https://flextv.io:443/jerman/101010ttt/171567.ts
+#EXTINF:-1 tvg-id="XHD" tvg-name="SuperSport Maximo | HD" tvg-logo="https://mysportz.tv/images/dc6353ccb49a507b3cb20fc50eb03207.png" group-title="SuperSport",SuperSport Maximo | HD
+https://flextv.io:443/jerman/101010ttt/171568.ts
+#EXTINF:-1 tvg-id="SSZ" tvg-name="SuperSport Blitz | HD" tvg-logo="https://mysportz.tv/images/9ba46541ce40db27dfd87f1d7b2c9f32.png" group-title="SuperSport",SuperSport Blitz | HD
+https://flextv.io:443/jerman/101010ttt/171569.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 1" tvg-logo="https://flextv.io:443/images/reqUiQZlnk74LjNenRBsbYsD8qga6JlNi9JZ04WyF_3Zk5zODiH_qTBR-hbcfR00ziiFIfO6swBoi-eLqdpoyQ.png" group-title="Astro SuperSport",Astro Supersport 1
+https://flextv.io:443/jerman/101010ttt/733020.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 2" tvg-logo="https://flextv.io:443/images/reqUiQZlnk74LjNenRBsbbGA9_at9mTuRumguCh5K7TA1xvqe7pbCrbZjp9lGQy8OuJY8xZkfK9HX-49EY2ltg.png" group-title="Astro SuperSport",Astro Supersport 2
+https://flextv.io:443/jerman/101010ttt/733019.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 3" tvg-logo="https://flextv.io:443/images/reqUiQZlnk74LjNenRBsbbGA9_at9mTuRumguCh5K7TA1xvqe7pbCrbZjp9lGQy8OuJY8xZkfK9HX-49EY2ltg.png" group-title="Astro SuperSport",Astro Supersport 3
+https://flextv.io:443/jerman/101010ttt/733018.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 4" tvg-logo="https://flextv.io:443/images/ynlFNUsoFni51_8AGeQJ6k4EBu3uFBlWavR_NqP9kQ3CoxtZFj69dnYsxGoRf_DJDJ7Imk2ygh03I2YgrlbxNrlflw37kVY46TQlipG8qEM.png" group-title="Astro SuperSport",Astro Supersport 4
+https://flextv.io:443/jerman/101010ttt/733060.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 5" tvg-logo="https://flextv.io:443/images/ynlFNUsoFni51_8AGeQJ6kvJap1LTWX1OhLoiDoGOwsgg4MoqyJ06Uq60yWssaMPOuHyu13S9t0UgK7Oh_kFaAYKtd2OwTX3ih3je6tutp0.png" group-title="Astro SuperSport",Astro Supersport 5
+https://flextv.io:443/jerman/101010ttt/733017.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://flextv.io:443/images/_DbZ1DCCuQTE9kn3VA69c3jJszijl7F6TEvt8eaUeTVZKS5N1IDAzrviDEGAk6oisRf-ZM4v7sUXfg3HYcLHlLTl6tuk44zlwUZ6849Icfo.png" group-title="Astro SuperSport",ASTRO CRICKET
+https://flextv.io:443/jerman/101010ttt/733062.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO RUGBY PASS" tvg-logo="https://flextv.io:443/images/_DbZ1DCCuQTE9kn3VA69c3jJszijl7F6TEvt8eaUeTVZKS5N1IDAzrviDEGAk6oisRf-ZM4v7sUXfg3HYcLHlLTl6tuk44zlwUZ6849Icfo.png" group-title="Astro SuperSport",ASTRO RUGBY PASS
+https://flextv.io:443/jerman/101010ttt/733116.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Arena" tvg-logo="https://flextv.io:443/images/_DbZ1DCCuQTE9kn3VA69c3jJszijl7F6TEvt8eaUeTVZKS5N1IDAzrviDEGAk6oisRf-ZM4v7sUXfg3HYcLHlLTl6tuk44zlwUZ6849Icfo.png" group-title="Astro SuperSport",ASTRO Arena
+https://flextv.io:443/jerman/101010ttt/733023.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Arena 2" tvg-logo="https://flextv.io:443/images/_DbZ1DCCuQTE9kn3VA69c3jJszijl7F6TEvt8eaUeTVZKS5N1IDAzrviDEGAk6oisRf-ZM4v7sUXfg3HYcLHlLTl6tuk44zlwUZ6849Icfo.png" group-title="Astro SuperSport",ASTRO Arena 2
+https://flextv.io:443/jerman/101010ttt/733022.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO beIN Sports" tvg-logo="https://flextv.io:443/images/_DbZ1DCCuQTE9kn3VA69c3jJszijl7F6TEvt8eaUeTVZKS5N1IDAzrviDEGAk6oisRf-ZM4v7sUXfg3HYcLHlLTl6tuk44zlwUZ6849Icfo.png" group-title="Astro SuperSport",ASTRO beIN Sports
+https://flextv.io:443/jerman/101010ttt/733067.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO beIN Sports 2" tvg-logo="https://flextv.io:443/images/_DbZ1DCCuQTE9kn3VA69c3jJszijl7F6TEvt8eaUeTVZKS5N1IDAzrviDEGAk6oisRf-ZM4v7sUXfg3HYcLHlLTl6tuk44zlwUZ6849Icfo.png" group-title="Astro SuperSport",ASTRO beIN Sports 2
+https://flextv.io:443/jerman/101010ttt/733015.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO beIN Sports 3" tvg-logo="https://flextv.io:443/images/_DbZ1DCCuQTE9kn3VA69c3jJszijl7F6TEvt8eaUeTVZKS5N1IDAzrviDEGAk6oisRf-ZM4v7sUXfg3HYcLHlLTl6tuk44zlwUZ6849Icfo.png" group-title="Astro SuperSport",ASTRO beIN Sports 3
+https://flextv.io:443/jerman/101010ttt/733065.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport Events 1 HD" tvg-logo="https://flextv.io:443/images/_DbZ1DCCuQTE9kn3VA69c3jJszijl7F6TEvt8eaUeTVZKS5N1IDAzrviDEGAk6oisRf-ZM4v7sUXfg3HYcLHlLTl6tuk44zlwUZ6849Icfo.png" group-title="Astro SuperSport",Astro SuperSport Events 1 HD
+https://flextv.io:443/jerman/101010ttt/733133.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport Events 2 HD" tvg-logo="https://flextv.io:443/images/_DbZ1DCCuQTE9kn3VA69c3jJszijl7F6TEvt8eaUeTVZKS5N1IDAzrviDEGAk6oisRf-ZM4v7sUXfg3HYcLHlLTl6tuk44zlwUZ6849Icfo.png" group-title="Astro SuperSport",Astro SuperSport Events 2 HD
+https://flextv.io:443/jerman/101010ttt/733132.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport Events 3 HD" tvg-logo="https://flextv.io:443/images/_DbZ1DCCuQTE9kn3VA69c3jJszijl7F6TEvt8eaUeTVZKS5N1IDAzrviDEGAk6oisRf-ZM4v7sUXfg3HYcLHlLTl6tuk44zlwUZ6849Icfo.png" group-title="Astro SuperSport",Astro SuperSport Events 3 HD
+https://flextv.io:443/jerman/101010ttt/733131.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport Events 4 HD" tvg-logo="https://flextv.io:443/images/_DbZ1DCCuQTE9kn3VA69c3jJszijl7F6TEvt8eaUeTVZKS5N1IDAzrviDEGAk6oisRf-ZM4v7sUXfg3HYcLHlLTl6tuk44zlwUZ6849Icfo.png" group-title="Astro SuperSport",Astro SuperSport Events 4 HD
+https://flextv.io:443/jerman/101010ttt/733157.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport Events 5 HD" tvg-logo="https://flextv.io:443/images/_DbZ1DCCuQTE9kn3VA69c3jJszijl7F6TEvt8eaUeTVZKS5N1IDAzrviDEGAk6oisRf-ZM4v7sUXfg3HYcLHlLTl6tuk44zlwUZ6849Icfo.png" group-title="Astro SuperSport",Astro SuperSport Events 5 HD
+https://flextv.io:443/jerman/101010ttt/733153.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport Events 6 HD" tvg-logo="https://flextv.io:443/images/_DbZ1DCCuQTE9kn3VA69c3jJszijl7F6TEvt8eaUeTVZKS5N1IDAzrviDEGAk6oisRf-ZM4v7sUXfg3HYcLHlLTl6tuk44zlwUZ6849Icfo.png" group-title="Astro SuperSport",Astro SuperSport Events 6 HD
+https://flextv.io:443/jerman/101010ttt/733088.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport  Variety 1 (D)" tvg-logo="" group-title="SuperSport",SuperSport  Variety 1 (D)
+https://flextv.io:443/jerman/101010ttt/736432.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Play 5 (D)" tvg-logo="" group-title="SuperSport",SuperSport Play 5 (D)
+https://flextv.io:443/jerman/101010ttt/736332.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Play 2 (D)" tvg-logo="" group-title="SuperSport",SuperSport Play 2 (D)
+https://flextv.io:443/jerman/101010ttt/736331.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Play 1 (D)" tvg-logo="" group-title="SuperSport",SuperSport Play 1 (D)
+https://flextv.io:443/jerman/101010ttt/736330.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 8 (D)" tvg-logo="" group-title="SuperSport",SuperSport OTT 8 (D)
+https://flextv.io:443/jerman/101010ttt/736329.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 7 (D)" tvg-logo="" group-title="SuperSport",SuperSport OTT 7 (D)
+https://flextv.io:443/jerman/101010ttt/736328.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 6 (D)" tvg-logo="" group-title="SuperSport",SuperSport OTT 6 (D)
+https://flextv.io:443/jerman/101010ttt/736327.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 5 (D)" tvg-logo="" group-title="SuperSport",SuperSport OTT 5 (D)
+https://flextv.io:443/jerman/101010ttt/736326.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 4 (D)" tvg-logo="" group-title="SuperSport",SuperSport OTT 4 (D)
+https://flextv.io:443/jerman/101010ttt/736325.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 3 (D)" tvg-logo="" group-title="SuperSport",SuperSport OTT 3 (D)
+https://flextv.io:443/jerman/101010ttt/736324.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 2 (D)" tvg-logo="" group-title="SuperSport",SuperSport OTT 2 (D)
+https://flextv.io:443/jerman/101010ttt/736323.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 1 (D)" tvg-logo="" group-title="SuperSport",SuperSport OTT 1 (D)
+https://flextv.io:443/jerman/101010ttt/736322.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport MaXimo 2 (D)" tvg-logo="" group-title="SuperSport",SuperSport MaXimo 2 (D)
+https://flextv.io:443/jerman/101010ttt/736320.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport MaXimo 1 (D)" tvg-logo="" group-title="SuperSport",SuperSport MaXimo 1 (D)
+https://flextv.io:443/jerman/101010ttt/736319.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Tennis (D)" tvg-logo="" group-title="SuperSport",SuperSport Tennis (D)
+https://flextv.io:443/jerman/101010ttt/736229.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Motorsport (D)" tvg-logo="" group-title="SuperSport",SuperSport Motorsport (D)
+https://flextv.io:443/jerman/101010ttt/736227.ts
+#EXTINF:-1 tvg-id="supersportgolf.za" tvg-name="SuperSport Golf (D)" tvg-logo="" group-title="SuperSport",SuperSport Golf (D)
+https://flextv.io:443/jerman/101010ttt/736223.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Football Plus (D)" tvg-logo="" group-title="SuperSport",SuperSport Football Plus (D)
+https://flextv.io:443/jerman/101010ttt/736113.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 1 (D)" tvg-logo="" group-title="French",RMC Sport 1 (D)
+https://flextv.io:443/jerman/101010ttt/736640.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 2 (D)" tvg-logo="" group-title="French",RMC Sport 2 (D)
+https://flextv.io:443/jerman/101010ttt/736641.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 3 (D)" tvg-logo="" group-title="French",RMC Sport 3 (D)
+https://flextv.io:443/jerman/101010ttt/736642.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 4 (D)" tvg-logo="" group-title="French",RMC Sport 4 (D)
+https://flextv.io:443/jerman/101010ttt/736643.ts
+EXTINF:-1 tvg-id="" tvg-name="4K Now Sports (EPL)" tvg-logo="" group-title="Now Sports TV",4K Now Sports (EPL)
+https://flextv.io:443/jerman/101010ttt/782710.ts
+#EXTINF:-1 tvg-id="" tvg-name="Now Sports 1" tvg-logo="" group-title="Now Sports TV",Now Sports 1
+https://flextv.io:443/jerman/101010ttt/782717.ts
+#EXTINF:-1 tvg-id="" tvg-name="Now Sports 2" tvg-logo="" group-title="Now Sports TV",Now Sports 2
+https://flextv.io:443/jerman/101010ttt/782716.ts
+#EXTINF:-1 tvg-id="" tvg-name="Now Sports 3" tvg-logo="" group-title="Now Sports TV",Now Sports 3
+https://flextv.io:443/jerman/101010ttt/782715.ts
+#EXTINF:-1 tvg-id="" tvg-name="Now Sports 4" tvg-logo="" group-title="Now Sports TV",Now Sports 4
+https://flextv.io:443/jerman/101010ttt/782714.ts
+#EXTINF:-1 tvg-id="" tvg-name="Now Sports 5" tvg-logo="" group-title="Now Sports TV",Now Sports 5
+https://flextv.io:443/jerman/101010ttt/782713.ts
+#EXTINF:-1 tvg-id="" tvg-name="Now Sports 6" tvg-logo="" group-title="Now Sports TV",Now Sports 6
+https://flextv.io:443/jerman/101010ttt/782712.ts
+#EXTINF:-1 tvg-id="" tvg-name="Now Sports 7" tvg-logo="" group-title="Now Sports TV",Now Sports 7
+https://flextv.io:443/jerman/101010ttt/782711.ts
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 1" tvg-logo="" group-title="Now Sports TV",Now Premier Sports 1
+https://flextv.io:443/jerman/101010ttt/782720.ts
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 2" tvg-logo="" group-title="Now Sports TV",Now Premier Sports 2
+https://flextv.io:443/jerman/101010ttt/782721.ts
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 3" tvg-logo="" group-title="Now Sports TV",Now Premier Sports 3
+https://flextv.io:443/jerman/101010ttt/782722.ts
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 4" tvg-logo="" group-title="Now Sports TV",Now Premier Sports 4
+https://flextv.io:443/jerman/101010ttt/782723.ts
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 5" tvg-logo="" group-title="Now Sports TV",Now Premier Sports 5
+https://flextv.io:443/jerman/101010ttt/782724.ts
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 6" tvg-logo="" group-title="Now Sports TV",Now Premier Sports 6
+https://flextv.io:443/jerman/101010ttt/782725.ts
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 7" tvg-logo="" group-title="Now Sports TV",Now Premier Sports 7
+https://flextv.io:443/jerman/101010ttt/782719.ts
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 8" tvg-logo="" group-title="Now Sports TV",Now Premier Sports 8
