@@ -1,33 +1,117 @@
-#EXTINF:-0,astro SuperSport 1 & 3 
-http://stream.ssh101.com/hls/23456.m3u8 ? 
-#EXTINF:-0,astro SuperSport 2 
-http://stream.ssh101.com/hls/103654.m3u8 
-#EXTINF:-1 group-title="SPORTS", Sky F1 
-http://192.99.24.176:8080/skfF1/skPfF1/index.m3u8 
-#EXTINF:-1 group-title="SPORTS",sky SPORTS 1 
-http://167.114.41.220:8080/sPPORTSONE/ONE/index.m3u8 
-#EXTINF:-1 group-title="SPORTS",sky SPORTS 2 
-http://167.114.41.220:8080/Spooorts/TWO/index.m3u8 
-#EXTINF:-1 group-title="SPORTS",sky SPORTS 3 
-http://167.114.41.220:8080/SPORTS/THEREE/index.m3u8 
-#EXTINF:-1 group-title="SPORTS",sky SPORTS 4 
-http://167.114.41.220:8080/SPORTSS/Four/index.m3u8 
-#EXTINF:-1 group-title="SPORTS",sky SPORTS 5 
-http://167.114.41.220:8080/SPORTSs/FIve/index.m3u8 
-#EXTINF:0 group-title="SPORTS",ESPN 
-http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8? 
-#EXTINF:0 group-title="SPORTS",Fox SPORTS 
-http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8 
-#EXTINF:-1 group-title="SPORTS",Fox Sports ar 
-http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8
+#EXTINF:0, Sky sports F1
+http://sportztv.net/live/SportsTv/Appss/6.ts
 
-#EXTINF:-1 group-title="SPORTS",British Eurosport 
-http://93.184.221.133/00573D/1210/1210-0.m3u8 
-#EXTINF:-1 group-title="SPORTS",British Eurosport 2 
-http://93.184.221.133/00573D/1211/1211-0.m3u8 
-#EXTINF:-1 group-title="SPORTS",TSN 1 720 HD 
-http://ams-lp5.9c9media.com/hlslive/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8 
-#EXTINF:-1 group-title="SPORTS",TSN 2 720 HD http://ams-lp7.9c9media.com/hlslive/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8 
-#EXTINF:-1 group-title="SPORTS",TSN 3 720 HD http://ams-lp1.9c9media.com/hlslive/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8 
-#EXTINF:-1 group-title="SPORTS",TSN 4 720 HD http://ams-lp2.9c9media.com/hlslive/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8 
-#EXTINF:-1 group-title="SPORTS",TSN 5 720 HD
+#EXTINF:0, Sky movies
+http://sportztv.net/live/SportsTv/Appss/7.ts
+
+#EXTINF:0, Setanta
+http://sportztv.net/live/SportsTv/Appss/8.ts
+
+#EXTINF:0, Setanta 1
+http://sportztv.net/live/SportsTv/Appss/9.ts
+
+#EXTINF:0, BT Sport 1
+http://sportztv.net/live/SportsTv/Appss/10.ts
+
+#EXTINF:0, BT Sport 2
+http://sportztv.net/live/SportsTv/Appss/11.ts
+
+#EXTINF:0, Eurosport
+http://sportztv.net/live/SportsTv/Appss/12.ts
+
+#EXTINF:0, Eurosport 2
+http://sportztv.net/live/SportsTv/Appss/13.ts
+
+#EXTINF:0, ESPN
+http://sportztv.net/live/SportsTv/Appss/14.ts
+
+#EXTINF:0, Box Nation
+http://sportztv.net/live/SportsTv/Appss/15.ts
+
+#EXTINF:0, TSN 1
+http://sportztv.net/live/SportsTv/Appss/34.ts
+
+#EXTINF:0, Sky bundesliga 1 HD
+http://sportztv.net/live/SportsTv/Appss/38.ts
+
+#EXTINF:0, bein sports 7
+http://sportztv.net/live/SportsTv/Appss/22.ts
+
+#EXTINF:0, bein sports 8
+http://sportztv.net/live/SportsTv/Appss/23.ts
+
+#EXTINF:0, bein sports 9
+http://sportztv.net/live/SportsTv/Appss/24.ts
+
+#EXTINF:0, bein sports MAX 4
+http://sportztv.net/live/SportsTv/Appss/93.ts
+
+#EXTINF:0, bein sports max 5
+http://sportztv.net/live/SportsTv/Appss/94.ts
+
+
+#EXTINF:0, Movies
+http://sportztv.net/live/SportsTv/Appss/98.ts
+
+#EXTINF:0, bbc Four
+http://sportztv.net/live/SportsTv/Appss/99.ts
+
+#EXTINF:0, BBC Three
+http://sportztv.net/live/SportsTv/Appss/100.ts
+
+#EXTINF:0, itv
+http://sportztv.net/live/SportsTv/Appss/101.ts
+
+#EXTINF:0, itv 4
+http://sportztv.net/live/SportsTv/Appss/102.ts
+
+#EXTINF:0, itv 3
+http://sportztv.net/live/SportsTv/Appss/105.ts
+
+#EXTINF:0, MotoGP
+http://sportztv.net/live/SportsTv/Appss/106.ts
+
+#EXTINF:0, uk movies
+http://sportztv.net/live/SportsTv/Appss/108.ts
+
+#EXTINF:0, Cinema Family + 1
+http://sportztv.net/live/SportsTv/Appss/50.ts
+
+#EXTINF:0, Arena sport 2
+http://sportztv.net/live/SportsTv/Appss/55.ts
+
+#EXTINF:0, Arena sport 3
+http://sportztv.net/live/SportsTv/Appss/56.ts
+
+#EXTINF:0, Fox Sport 1
+http://sportztv.net/live/SportsTv/Appss/59.ts
+
+#EXTINF:0, Star plus india
+http://sportztv.net/live/SportsTv/Appss/61.ts
+
+#EXTINF:0, Sky movies Action
+http://sportztv.net/live/SportsTv/Appss/64.ts
+
+#EXTINF:0, itv UK
+http://sportztv.net/live/SportsTv/Appss/65.ts
+
+#EXTINF:0, Sport Klub 2
+http://sportztv.net/live/SportsTv/Appss/67.ts
+
+#EXTINF:0, super sport
+http://sportztv.net/live/SportsTv/Appss/71.ts
+
+#EXTINF:0, SN1
+http://sportztv.net/live/SportsTv/Appss/75.ts
+
+#EXTINF:0, Fox sports
+http://sportztv.net/live/SportsTv/Appss/77.ts
+
+#EXTINF:0, Sony Max live
+http://sportztv.net/live/SportsTv/Appss/78.ts
+
+#EXTINF:0, NDtv
+http://sportztv.net/live/SportsTv/Appss/79.ts
+
+#EXTINF:0, india tv
+http://sportztv.net/live/SportsTv/Appss/80.ts
