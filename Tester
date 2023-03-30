@@ -1,2 +1,5 @@
 #EXTINF:803, tvg-id="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_160.png" tvg-name="Astro Supersport 3"  group-title="Sport",Astro Supersport 3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://dstvguide.com/wp-content/uploads/2020/08/SuperSport-Football-Plus-Schedule.png" tvg-name="SUPERSPORT FOOTBAL PLUS HD"  group-title="SUPERSPORT",SUPERSPORT FOOTBAL PLUS HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/2628
