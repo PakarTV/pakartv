@@ -1,56 +1,33 @@
-#EXTINF:-1 tvg-id="703" ch-number="703" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png",Lifetime  
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5052 
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
+#EXTINF:-0,astro SuperSport 1 & 3 
+http://stream.ssh101.com/hls/23456.m3u8 ? 
+#EXTINF:-0,astro SuperSport 2 
+http://stream.ssh101.com/hls/103654.m3u8 
+#EXTINF:-1 group-title="SPORTS", Sky F1 
+http://192.99.24.176:8080/skfF1/skPfF1/index.m3u8 
+#EXTINF:-1 group-title="SPORTS",sky SPORTS 1 
+http://167.114.41.220:8080/sPPORTSONE/ONE/index.m3u8 
+#EXTINF:-1 group-title="SPORTS",sky SPORTS 2 
+http://167.114.41.220:8080/Spooorts/TWO/index.m3u8 
+#EXTINF:-1 group-title="SPORTS",sky SPORTS 3 
+http://167.114.41.220:8080/SPORTS/THEREE/index.m3u8 
+#EXTINF:-1 group-title="SPORTS",sky SPORTS 4 
+http://167.114.41.220:8080/SPORTSS/Four/index.m3u8 
+#EXTINF:-1 group-title="SPORTS",sky SPORTS 5 
+http://167.114.41.220:8080/SPORTSs/FIve/index.m3u8 
+#EXTINF:0 group-title="SPORTS",ESPN 
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8? 
+#EXTINF:0 group-title="SPORTS",Fox SPORTS 
+http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8 
+#EXTINF:-1 group-title="SPORTS",Fox Sports ar 
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8
 
-#EXTINF:-1 tvg-id="blueantext" tvg-logo="https://i.ibb.co/KLSyc92/Rock-Extreme.png", Rock Extreme
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://210.210.155.37/session/e775987a-25f3-11ed-8ba5-85009179245a/dr9445/h/h15/01.m3u8
-http://210.210.155.35:80/dr9445/h/h16/02.m3u8 
-
-#EXTINF:-1 tvg-id="811" group-title="Sports" tvg-logo="https://i.ibb.co/FKbFB4W/Desain-tanpa-judul-4-modified.png",Astro SuperSport 1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601 
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd # 
-http://139.99.96.163:2095/live/User39281/UDnAlgqObgx/149.ts
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059 
-#EXTINF:-1 tvg-id="815" tvg-logo="https://i.ibb.co/dGvfNvs/Desain-tanpa-judul-8-modified.png" group-title="Sports",Astro Supersport 5  
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5058 
-#EXTINF:-1 tvg-id="816" tvg-logo="https://i.ibb.co/C5gD7th/file-7408e006-5492-4b54-aa54-581581b2d87b-modified.png" group-title="Sports",Spotv 1 
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
-
-
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/q7tbRRh/Desain-tanpa-judul-57-modified.png" group-title="Sports",Premier Football 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0 
-https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/ 
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/HP4Xnwk/Desain-tanpa-judul-58-modified.png" group-title="Sports",Premier Football 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0 
-https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/ 
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/xLq8sst/Desain-tanpa-judul-60-modified.png" group-title="Sports",Premier Football 3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0 
-https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/ 
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/Xt38mRL/Desain-tanpa-judul-59-modified.png" group-title="Sports",Premier Football 4 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0 
-https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2601 
-#EXTINF:-1 tvg-id="823" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-title="Sports",Premier Sport 
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
-
-
-#EXTINF:-1 tvg-ID="FoxSports.us" tvg-name="" tvg-logo="https://i.ibb.co/3zy7XK7/GRftj-RV6-400x400-modified.png" group-title="Sports",Fox Sport 
-https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd 
-#EXTINF:-1 tvg-ID="FoxSports2.us" tvg-name="" tvg-logo="https://i.ibb.co/3zy7XK7/GRftj-RV6-400x400-modified.png" group-title="Sports",Fox Sport 2 
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd 
-#EXTINF:-1 tvg-ID="FoxSports3.us" tvg-name="" tvg-logo="https://i.ibb.co/3zy7XK7/GRftj-RV6-400x400-modified.png" group-title="Sports",Fox Sport 3 
-https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
-
-
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/JjT9VsD/download-22-modified-1.png" group-title="Sports",MMA TV 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=819&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Rs19sdFRTfJdn9Wyxa4f&custom_7=60ecb878ebef9d002c4d0a11&is_lat=0
+#EXTINF:-1 group-title="SPORTS",British Eurosport 
+http://93.184.221.133/00573D/1210/1210-0.m3u8 
+#EXTINF:-1 group-title="SPORTS",British Eurosport 2 
+http://93.184.221.133/00573D/1211/1211-0.m3u8 
+#EXTINF:-1 group-title="SPORTS",TSN 1 720 HD 
+http://ams-lp5.9c9media.com/hlslive/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8 
+#EXTINF:-1 group-title="SPORTS",TSN 2 720 HD http://ams-lp7.9c9media.com/hlslive/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8 
+#EXTINF:-1 group-title="SPORTS",TSN 3 720 HD http://ams-lp1.9c9media.com/hlslive/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8 
+#EXTINF:-1 group-title="SPORTS",TSN 4 720 HD http://ams-lp2.9c9media.com/hlslive/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8 
+#EXTINF:-1 group-title="SPORTS",TSN 5 720 HD
