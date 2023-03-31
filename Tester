@@ -1,238 +1,120 @@
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-name="305" tvg-id="FS1.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428103_ico.png" group-title="BACKUP",FOX SPORTS
+http://198.16.106.61:8277/streams/d/Foxsports/playlist.m3u8
+http://185.180.221.194:8277/streams/d/Foxsports/playlist.m3u8
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+https://liveanevia.mncnow.id/live/eds/FoxSportss1s/sa_dash_vmx/FoxSportss1s.mpd
 
-#EXTM3U
-#EXTINF:0,DSTV: SuperSport Grandstand
-http://iptv.tvmalaysia.cc/live/932633/932633/6572.ts
-#EXTINF:0,DSTV: SuperSport PSL
-http://iptv.tvmalaysia.cc/live/932633/932633/6573.ts
-#EXTINF:0,DSTV: SuperSport Premier League
-http://iptv.tvmalaysia.cc/live/932633/932633/6574.ts
-#EXTINF:0,DSTV: SuperSport La Liga
-http://iptv.tvmalaysia.cc/live/932633/932633/6575.ts
-#EXTINF:0,DSTV: SuperSport Football
-http://iptv.tvmalaysia.cc/live/932633/932633/6576.ts
-#EXTINF:0,DSTV: SuperSport Variety 1
-http://iptv.tvmalaysia.cc/live/932633/932633/6577.ts
-#EXTINF:0,DSTV: SuperSport Variety 2
-http://iptv.tvmalaysia.cc/live/932633/932633/6578.ts
-#EXTINF:0,DSTV: SuperSport Variety 3
-http://iptv.tvmalaysia.cc/live/932633/932633/6579.ts
-#EXTINF:0,DSTV: SuperSport Variety 4
-http://iptv.tvmalaysia.cc/live/932633/932633/6580.ts
-#EXTINF:0,DSTV: SuperSport Rugby
-http://iptv.tvmalaysia.cc/live/932633/932633/6582.ts
-#EXTINF:0,DSTV: SuperSport MáXimo
-http://iptv.tvmalaysia.cc/live/932633/932633/6585.ts
-#EXTINF:0,BT Sport 1
-http://iptv.tvmalaysia.cc/live/932633/932633/6610.ts
-#EXTINF:0,BT Sport 2
-http://iptv.tvmalaysia.cc/live/932633/932633/6611.ts
-#EXTINF:0,UK: Sky Sports Golf
-http://iptv.tvmalaysia.cc/live/932633/932633/6618.ts
-#EXTINF:0,UK: Sky Sports Cricket
-http://iptv.tvmalaysia.cc/live/932633/932633/6619.ts
-#EXTINF:0,UK: Sky Sports Football
-http://iptv.tvmalaysia.cc/live/932633/932633/6620.ts
-#EXTINF:0,Asian Food Network HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6693.ts
-#EXTINF:0,Al-Jazzera HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6694.ts
-#EXTINF:0,ASTRO Adithya
-http://iptv.tvmalaysia.cc/live/932633/932633/6700.ts
-#EXTINF:0,ASTRO AEC HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6701.ts
-#EXTINF:0,ASTRO AOD 351 HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6702.ts
-#EXTINF:0,ASTRO AOD 353 HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6704.ts
-#EXTINF:0,ASTRO AOD 355 HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6706.ts
-#EXTINF:0,ASTRO Arena HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6707.ts
-#EXTINF:0,ASTRO SUPERSPORT HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6708.ts
-#EXTINF:0,ASTRO SUPERSPORT 2 HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6710.ts
-#EXTINF:0,ASTRO SUPERSPORT 3 HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6711.ts
-#EXTINF:0,ASTRO SUPERSPORT 4 HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6712.ts
-#EXTINF:0,ASTRO Aura HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6713.ts
-#EXTINF:0,ASTRO Awani HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6714.ts
-#EXTINF:0,ASTRO Ceria HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6715.ts
-#EXTINF:0,ASTRO Cricket
-http://iptv.tvmalaysia.cc/live/932633/932633/6717.ts
-#EXTINF:0,ASTRO Naura HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6724.ts
-#EXTINF:0,ASTRO Oasis HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6725.ts
-#EXTINF:0,ASTRO Prima HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6727.ts
-#EXTINF:0,ASTRO Rania HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6729.ts
-#EXTINF:0,ASTRO Ria HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6730.ts
-#EXTINF:0,ASTRO Star Vijay HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6732.ts
-#EXTINF:0,ASTRO Sun TV HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6733.ts
-#EXTINF:0,ASTRO Vaanavil HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6738.ts
-#EXTINF:0,ASTRO Vinmeen HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6739.ts
-#EXTINF:0,ASTRO Warna HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6740.ts
-#EXTINF:0,ASTRO Zee Tamil HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6742.ts
-#EXTINF:0,beIN MAX
-http://iptv.tvmalaysia.cc/live/932633/932633/6748.ts
-#EXTINF:0,beIN Sports
-http://iptv.tvmalaysia.cc/live/932633/932633/6749.ts
-#EXTINF:0,Bernama News
-http://iptv.tvmalaysia.cc/live/932633/932633/6750.ts
-#EXTINF:0,Cartoon Network HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6757.ts
-#EXTINF:0,Chutti TV
-http://iptv.tvmalaysia.cc/live/932633/932633/6762.ts
-#EXTINF:0,Colors Cineplex
-http://iptv.tvmalaysia.cc/live/932633/932633/6768.ts
-#EXTINF:0,Colors HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6769.ts
-#EXTINF:0,Discovery Asia
-http://iptv.tvmalaysia.cc/live/932633/932633/6772.ts
-#EXTINF:0,DMAX HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6778.ts
-#EXTINF:0,FOX Sports 2 HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6791.ts
-#EXTINF:0,FOX Sports HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6793.ts
-#EXTINF:0,Jaya Max
-http://iptv.tvmalaysia.cc/live/932633/932633/6802.ts
-#EXTINF:0,Makkal TV
-http://iptv.tvmalaysia.cc/live/932633/932633/6806.ts
-#EXTINF:0,Nick Jr
-http://iptv.tvmalaysia.cc/live/932633/932633/6813.ts
-#EXTINF:0,Nickelodeon HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6814.ts
-#EXTINF:0,One HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6817.ts
-#EXTINF:0,Sun Music
-http://iptv.tvmalaysia.cc/live/932633/932633/6831.ts
-#EXTINF:0,TV-AlHijrah
-http://iptv.tvmalaysia.cc/live/932633/932633/6834.ts
-#EXTINF:0,TVB Classic
-http://iptv.tvmalaysia.cc/live/932633/932633/6839.ts
-#EXTINF:0,TVB E-News
-http://iptv.tvmalaysia.cc/live/932633/932633/6840.ts
-#EXTINF:0,TV SARAWAK
-http://iptv.tvmalaysia.cc/live/932633/932633/6846.ts
-#EXTINF:0,Warner TV
-http://iptv.tvmalaysia.cc/live/932633/932633/6848.ts
-#EXTINF:0,WWE Network
-http://iptv.tvmalaysia.cc/live/932633/932633/6849.ts
-#EXTINF:0,Cinemax FHD
-http://iptv.tvmalaysia.cc/live/932633/932633/7062.ts
-#EXTINF:0,Hits Movies
-http://iptv.tvmalaysia.cc/live/932633/932633/7066.ts
-#EXTINF:0,HBO FHD
-http://iptv.tvmalaysia.cc/live/932633/932633/7067.ts
-#EXTINF:0,HBO Hits FHD
-http://iptv.tvmalaysia.cc/live/932633/932633/7068.ts
-#EXTINF:0,HBO Signature FHD
-http://iptv.tvmalaysia.cc/live/932633/932633/7069.ts
-#EXTINF:0,HBO Family FHD
-http://iptv.tvmalaysia.cc/live/932633/932633/7070.ts
-#EXTINF:0,Red By HBO HD
-http://iptv.tvmalaysia.cc/live/932633/932633/7071.ts
-#EXTINF:0,Warner TV HD
-http://iptv.tvmalaysia.cc/live/932633/932633/7072.ts
-#EXTINF:0,tVN movies HD
-http://iptv.tvmalaysia.cc/live/932633/932633/7074.ts
-#EXTINF:0,National Geographic HD
-http://iptv.tvmalaysia.cc/live/932633/932633/7075.ts
-#EXTINF:0,HGTV
-http://iptv.tvmalaysia.cc/live/932633/932633/7076.ts
-#EXTINF:0,Animal Planet
-http://iptv.tvmalaysia.cc/live/932633/932633/7077.ts
-#EXTINF:0,Discovery Channel HD
-http://iptv.tvmalaysia.cc/live/932633/932633/7078.ts
-#EXTINF:0,History FHD
-http://iptv.tvmalaysia.cc/live/932633/932633/7079.ts
-#EXTINF:0,Nat Geo People HD
-http://iptv.tvmalaysia.cc/live/932633/932633/7080.ts
-#EXTINF:0,Nat Geo Wild HD
-http://iptv.tvmalaysia.cc/live/932633/932633/7081.ts
-#EXTINF:0,DSTV: SuperSport Motorsport
-http://iptv.tvmalaysia.cc/live/932633/932633/7142.ts
-#EXTINF:0,Era FM
-http://iptv.tvmalaysia.cc/live/932633/932633/7169.ts
-#EXTINF:0,Hot FM
-http://iptv.tvmalaysia.cc/live/932633/932633/7170.ts
-#EXTINF:0,Sinar FM
-http://iptv.tvmalaysia.cc/live/932633/932633/7172.ts
-#EXTINF:0,THR GEGAR
-http://iptv.tvmalaysia.cc/live/932633/932633/7174.ts
-#EXTINF:0,TV 1
-http://iptv.tvmalaysia.cc/live/932633/932633/7177.ts
-#EXTINF:0,TV 2
-http://iptv.tvmalaysia.cc/live/932633/932633/7178.ts
-#EXTINF:0,TV 9
-http://iptv.tvmalaysia.cc/live/932633/932633/7185.ts
-#EXTINF:0,BERNAMA
-http://iptv.tvmalaysia.cc/live/932633/932633/7190.ts
-#EXTINF:0,Disney Channel HD
-http://iptv.tvmalaysia.cc/live/932633/932633/7196.ts
-#EXTINF:0,Boomerang
-http://iptv.tvmalaysia.cc/live/932633/932633/7199.ts
-#EXTINF:0,Universal Kids FHD
-http://iptv.tvmalaysia.cc/live/932633/932633/7205.ts
-#EXTINF:0,Cinema World
-http://iptv.tvmalaysia.cc/live/932633/932633/7219.ts
-#EXTINF:0,Thrill
-http://iptv.tvmalaysia.cc/live/932633/932633/7220.ts
-#EXTINF:0,Celestial Classic Movies.
-http://iptv.tvmalaysia.cc/live/932633/932633/7222.ts
-#EXTINF:0,AXN
-http://iptv.tvmalaysia.cc/live/932633/932633/7223.ts
-#EXTINF:0,Fox Crime
-http://iptv.tvmalaysia.cc/live/932633/932633/7225.ts
-#EXTINF:0,FOX
-http://iptv.tvmalaysia.cc/live/932633/932633/7227.ts
-#EXTINF:0,Fox Life
-http://iptv.tvmalaysia.cc/live/932633/932633/7228.ts
-#EXTINF:0,KiX
-http://iptv.tvmalaysia.cc/live/932633/932633/7229.ts
-#EXTINF:0,BBC Earth
-http://iptv.tvmalaysia.cc/live/932633/932633/7233.ts
-#EXTINF:0,Celestial Movies
-http://iptv.tvmalaysia.cc/live/932633/932633/7235.ts
-#EXTINF:0,MUTV
-http://iptv.tvmalaysia.cc/live/932633/932633/7236.ts
-#EXTINF:0,LFC TV
-http://iptv.tvmalaysia.cc/live/932633/932633/7237.ts
-#EXTINF:0,TV3
-http://iptv.tvmalaysia.cc/live/932633/932633/7266.ts
-#EXTINF:0,TV3 (Back up)
-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-#EXTINF:0,Astro Citra HD1
-http://iptv.tvmalaysia.cc/live/932633/932633/7267.ts
-#EXTINF:0,Astro Citra HD2 (subtitle)
-https://list.iptvcat.com/my_list/s/c80836e2230379704039110cafea2485.ts
-#EXTINF:0,?????? ????????????
-http://iptv.tvmalaysia.cc/live/932633/932633/8995.ts
-#EXTINF:0,Star Movies HD
-http://iptv.tvmalaysia.cc/live/932633/932633/8997.ts
-#EXTINF:0,TESTNEW
-http://iptv.tvmalaysia.cc/live/932633/932633/9001.ts
-#EXTINF:0,FS 1
-http://iptv.tvmalaysia.cc/live/932633/932633/9003.ts
-#EXTINF:0,FOX ACTION (P)
-http://iptv.tvmalaysia.cc/live/932633/932633/9006.ts
-#EXTINF:0,foxmoviebeta
-http://iptv.tvmalaysia.cc/live/932633/932633/9007.ts
-#EXTINF:0,cinemax..
-http://iptv.tvmalaysia.cc/live/932633/932633/9008.ts
-#EXTINF:0,Arena ( B )
-http://iptv.tvmalaysia.cc/live/932633/932633/9010.ts
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-name="305" tvg-id="FS2.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428104_ico.png" group-title="BACKUP",FOX SPORTS 2
+http://198.16.106.61:8277/streams/d/Foxsports2/playlist.m3u8
+http://185.180.221.194:8277/streams/d/Foxsports2/playlist.m3u8
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+https://liveanevia.mncnow.id/live/eds/FoxSportss2s/sa_dash_vmx/FoxSportss2s.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-name="305" tvg-id="FS3.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428105_ico.png" group-title="BACKUP",FOX SPORTS 3
+http://198.16.106.61:8277/streams/d/Foxsports3/playlist.m3u8
+http://185.180.221.194:8277/streams/d/Foxsports3/playlist.m3u8
+https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="B01.th" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport1.png" group-title="BACKUP",BEIN SPORTS 1
+https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
+http://50.7.161.82:8277/streams/d/Bein1hd/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="B02.th" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport2.png" group-title="BACKUP",BEIN SPORTS 2
+https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+http://50.7.161.82:8277/streams/d/Bein2hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="B02.th" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinmax.png" group-title="BACKUP",BEIN SPORTS MAX
+http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157487
+#http://51.79.223.246:61980/myplay/c_58044/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="BACKUP",SUPERSPORT
+http://50.7.161.82:8277/streams/d/Assp1/playlist.m3u8
+http://198.16.106.61:8277/streams/d/Assp1/playlist.m3u8
+#http://51.79.223.246:61980/myplay/mlsp_601/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/146068
+#http://1.crtv1.ml/hstv/crtv.php?id=1070
+http://36.37.252.114:888/Apple/OneTV-035/playlist.m3u8
+http://185.180.221.194:8277/streams/d/Assp1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="BACKUP",SUPERSPORT 2
+http://50.7.161.82:8277/streams/d/Assp2/playlist.m3u8
+http://198.16.106.61:8277/streams/d/Assp2/playlist.m3u8
+#http://51.79.223.246:61980/myplay/mlsp_602/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157556
+#http://1.crtv1.ml/hstv/crtv.php?id=1071
+http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+http://185.180.221.194:8277/streams/d/Assp2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="BACKUP",SUPERSPORT 3
+http://50.7.161.82:8277/streams/d/Assp3/playlist.m3u8
+http://198.16.106.61:8277/streams/d/Assp3/playlist.m3u8
+#http://51.79.223.246:61980/myplay/mlsp_603/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157557
+#http://1.crtv1.ml/hstv/crtv.php?id=1072
+http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+http://185.180.221.194:8277/streams/d/Assp3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png" group-title="BACKUP",SUPERSPORT 4
+http://50.7.161.82:8277/streams/d/Assp4/playlist.m3u8
+http://198.16.106.61:8277/streams/d/Assp4/playlist.m3u8
+#http://51.79.223.246:61980/myplay/mlsp_604/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157558
+#http://1.crtv1.ml/hstv/crtv.php?id=1074
+http://185.180.221.194:8277/streams/d/Assp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://i.imgur.com/X7h09MM.png" group-title="BACKUP",CRICKET
+http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157565
+#http://51.79.223.246:61980/myplay/mlsp_605/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://i.imgur.com/ejuWKh7.png" group-title="BACKUP",GOLF
+http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157563
+#http://51.79.223.246:61980/myplay/mlsp_606/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjE5ZjlhOGEtYmM0Ny0zZWZiLTgzNDctM2U4MWFjOTUwNTMx
+#EXTINF:-1 tvg-name="305" tvg-id=".Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/unifisport1.png" group-title="BACKUP",UNI SPORT 1
+#http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/264787
+http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjE5ZjlhOGEtYmM0Ny0zZWZiLTgzNDctM2U4MWFjOTUwNTMx
+#EXTINF:-1 tvg-name="305" tvg-id=".Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/unifisport2.png" group-title="BACKUP",UNI SPORT 2
+#http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/264788
+http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjE5ZjlhOGEtYmM0Ny0zZWZiLTgzNDctM2U4MWFjOTUwNTMx
+#EXTINF:-1 tvg-name="305" tvg-id=".Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/unifisport3.png" group-title="BACKUP",UNI SPORT 3
+#http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/264789
+http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjE5ZjlhOGEtYmM0Ny0zZWZiLTgzNDctM2U4MWFjOTUwNTMx
+#EXTINF:-1 tvg-name="305" tvg-id=".Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/unifisport4.png" group-title="BACKUP",UNI SPORT 4
+#http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/264790
+http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjE5ZjlhOGEtYmM0Ny0zZWZiLTgzNDctM2U4MWFjOTUwNTMx
+#EXTINF:-1 tvg-name="305" tvg-id=".Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/unifisport5.png" group-title="BACKUP",UNI SPORT 5
+#http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/264791
+http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Fig.Int" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428264_ico.png" group-title="BACKUP",FIGHT SPORTS
+https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+#EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428141_ico.png" group-title="BACKUP",WWE NETWORK
+http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157562
+#http://51.79.223.246:61980/myplay/c_58016/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380f
