@@ -25,3 +25,31 @@ http://194.233.73.230:2082/live/60168045715/1234/138.m3u8
 #EXTINF:-1 tvg-id="CHN" tvg-name="BEIN SPORT 2 ID 60FPS FHD" tvg-logo="https://i.ibb.co/x5dhF5X/RHYSY.png" group-title="E5",BEIN SPORT 2 ID 60FPS FHD
 #EXTVLCOPT:http-user-agent=GoldPlayer
 http://194.233.73.230:2082/live/60168045715/1234/139.m3u8
+
+#EXTINF:-1 tvg-id="811" tvg-name="MY: Astro Super Sport 1" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="E5",Astro Super Sport 1
+#EXTVLCOPT:http-user-agent=GoldPlayer
+http://194.233.73.230:2082/live/60168045715/1234/124.m3u8
+
+#EXTINF:-1 tvg-id="812" tvg-name="MY: Astro Super Sport 2" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="E5",Astro Super Sport 2
+#EXTVLCOPT:http-user-agent=GoldPlayer
+http://194.233.73.230:2082/live/60168045715/1234/125.m3u8
+
+#EXTINF:-1 tvg-id="813" tvg-name="MY: Astro Super Sport 3" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="E5",Astro Super Sport 3
+#EXTVLCOPT:http-user-agent=GoldPlayer
+http://194.233.73.230:2082/live/60168045715/1234/126.m3u8
+
+#EXTINF:-1 tvg-id="814" tvg-name="MY: Astro Super Sport 4" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="E5",Astro Super Sport 4
+#EXTVLCOPT:http-user-agent=GoldPlayer
+http://194.233.73.230:2082/live/60168045715/1234/127.m3u8
+
+#EXTINF:-1 tvg-id="CHN" tvg-name="Bein Sport Xtra" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1164.png" group-title="E5",Bein Sport Xtra
+#EXTVLCOPT:http-user-agent=GoldPlayer
+http://194.233.73.230:2082/live/60168045715/1234/133.m3u8
+
+#EXTINF:-1 tvg-id="CHN" tvg-name="BEIN SPORT 1 ID 60FPS FHD" tvg-logo="https://i.ibb.co/vBYkNyY/htdty.png" group-title="E5",BEIN SPORT 1 ID 60FPS FHD
+#EXTVLCOPT:http-user-agent=GoldPlayer
+http://194.233.73.230:2082/live/60168045715/1234/138.m3u8
+
+#EXTINF:-1 tvg-id="CHN" tvg-name="BEIN SPORT 2 ID 60FPS FHD" tvg-logo="https://i.ibb.co/x5dhF5X/RHYSY.png" group-title="E5",BEIN SPORT 2 ID 60FPS FHD
+#EXTVLCOPT:http-user-agent=GoldPlayer
+http://194.233.73.230:2082/live/60168045715/1234/139.m3u8
