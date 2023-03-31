@@ -1,16 +1,18 @@
-
-#EXTINF:-1 tvg-id="" tvg-name="[MY] Astro Supersports Premier League 1" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title=group-title="D4",Astro Supersports Premier League 1
+#EXTINF:-1 tvg-id="811" tvg-name="[MY] ASTRO ASSP HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my.png" group-title=group-title="D4",ASTRO ASSP HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://ktiptv.co:443/live/w3345/2772749483626/603320.m3u8
+https://ktiptv.co:443/live/w3345/2772749483626/26312.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="[MY] Astro Supersports Premier League 2" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title=group-title="D4",Astro Supersports Premier League 2
+#EXTINF:-1 tvg-id="812" tvg-name="[MY] ASTRO ASSP2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my_2.png" group-title=group-title="D4",ASTRO ASSP2 HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://ktiptv.co:443/live/w3345/2772749483626/603321.m3u8
+https://ktiptv.co:443/live/w3345/2772749483626/26313.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="[MY] Astro Supersports Premier League 3" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title=group-title="D4",Astro Supersports Premier League 3
+#EXTINF:-1 tvg-id="813" tvg-name="[MY] ASTRO ASSP3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my_3.png" group-title=group-title="D4",ASTRO ASSP3 HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://ktiptv.co:443/live/w3345/2772749483626/603322.m3u8
+https://ktiptv.co:443/live/w3345/2772749483626/26314.m3u8
 
-#EXTINF:-1 tvg-id="fox.sports.3.id" tvg-name="[MY] Bein Sports Max 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_bein_sports_max_2.png/1200px-Logo_bein_sports_max_2.png" group-title=group-title="D4",Bein Sports Max 2
+#EXTINF:-1 tvg-id="814" tvg-name="[MY] ASTRO ASSP4 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my_4.png" group-title=group-title="D4",ASTRO ASSP4 HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://ktiptv.co:443/live/w3345/2772749483626/73953
+https://ktiptv.co:443/live/w3345/2772749483626/26315.m3u8
+
+#EXTINF:-1 tvg-id="815" tvg-name="[MY] ASTRO ASSP5 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-supersport-5-my.png" group-title=group-title="D4",ASTRO ASSP5 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
