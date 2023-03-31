@@ -1,120 +1,27 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-name="305" tvg-id="FS1.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428103_ico.png" group-title="BACKUP",FOX SPORTS
-http://198.16.106.61:8277/streams/d/Foxsports/playlist.m3u8
-http://185.180.221.194:8277/streams/d/Foxsports/playlist.m3u8
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-https://liveanevia.mncnow.id/live/eds/FoxSportss1s/sa_dash_vmx/FoxSportss1s.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-ID="CHN" group-title="INDONESIA" tvg-logo="http://images.useetv.com/logo_bein1_big1.png",BEIN SPORTS 01
+https://conversant.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-name="305" tvg-id="FS2.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428104_ico.png" group-title="BACKUP",FOX SPORTS 2
-http://198.16.106.61:8277/streams/d/Foxsports2/playlist.m3u8
-http://185.180.221.194:8277/streams/d/Foxsports2/playlist.m3u8
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-https://liveanevia.mncnow.id/live/eds/FoxSportss2s/sa_dash_vmx/FoxSportss2s.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-ID="CHN" group-title="INDONESIA" tvg-logo="http://images.useetv.com/logo_bein2_big1.png",BEIN SPORTS 02
+https://conversant.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-name="305" tvg-id="FS3.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428105_ico.png" group-title="BACKUP",FOX SPORTS 3
-http://198.16.106.61:8277/streams/d/Foxsports3/playlist.m3u8
-http://185.180.221.194:8277/streams/d/Foxsports3/playlist.m3u8
-https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.dropbox.com/s/v2q196f65ijah1y/MNCSports_%282020%29.png?dl=1", MNC SPORT
+https://conversant.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="B01.th" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport1.png" group-title="BACKUP",BEIN SPORTS 1
-https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
-http://50.7.161.82:8277/streams/d/Bein1hd/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://images.useetv.com/logo_fight_big1.png",FIGHT SPORT
+https://conversant.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="B02.th" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport2.png" group-title="BACKUP",BEIN SPORTS 2
-https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
-http://50.7.161.82:8277/streams/d/Bein2hd/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.infotelevisi.com/asset/images/tv/Soccer-Channel.jpg",SOCCER CHANNEL
+https://conversant.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
-#EXTINF:-1 tvg-id="B02.th" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinmax.png" group-title="BACKUP",BEIN SPORTS MAX
-http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157487
-#http://51.79.223.246:61980/myplay/c_58044/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
-
-#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="BACKUP",SUPERSPORT
-http://50.7.161.82:8277/streams/d/Assp1/playlist.m3u8
-http://198.16.106.61:8277/streams/d/Assp1/playlist.m3u8
-#http://51.79.223.246:61980/myplay/mlsp_601/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
-http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/146068
-#http://1.crtv1.ml/hstv/crtv.php?id=1070
-http://36.37.252.114:888/Apple/OneTV-035/playlist.m3u8
-http://185.180.221.194:8277/streams/d/Assp1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="BACKUP",SUPERSPORT 2
-http://50.7.161.82:8277/streams/d/Assp2/playlist.m3u8
-http://198.16.106.61:8277/streams/d/Assp2/playlist.m3u8
-#http://51.79.223.246:61980/myplay/mlsp_602/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
-http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157556
-#http://1.crtv1.ml/hstv/crtv.php?id=1071
-http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
-http://185.180.221.194:8277/streams/d/Assp2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="BACKUP",SUPERSPORT 3
-http://50.7.161.82:8277/streams/d/Assp3/playlist.m3u8
-http://198.16.106.61:8277/streams/d/Assp3/playlist.m3u8
-#http://51.79.223.246:61980/myplay/mlsp_603/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
-http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157557
-#http://1.crtv1.ml/hstv/crtv.php?id=1072
-http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
-http://185.180.221.194:8277/streams/d/Assp3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png" group-title="BACKUP",SUPERSPORT 4
-http://50.7.161.82:8277/streams/d/Assp4/playlist.m3u8
-http://198.16.106.61:8277/streams/d/Assp4/playlist.m3u8
-#http://51.79.223.246:61980/myplay/mlsp_604/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
-http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157558
-#http://1.crtv1.ml/hstv/crtv.php?id=1074
-http://185.180.221.194:8277/streams/d/Assp4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://i.imgur.com/X7h09MM.png" group-title="BACKUP",CRICKET
-http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157565
-#http://51.79.223.246:61980/myplay/mlsp_605/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
-
-#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://i.imgur.com/ejuWKh7.png" group-title="BACKUP",GOLF
-http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157563
-#http://51.79.223.246:61980/myplay/mlsp_606/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjE5ZjlhOGEtYmM0Ny0zZWZiLTgzNDctM2U4MWFjOTUwNTMx
-#EXTINF:-1 tvg-name="305" tvg-id=".Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/unifisport1.png" group-title="BACKUP",UNI SPORT 1
-#http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/264787
-http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjE5ZjlhOGEtYmM0Ny0zZWZiLTgzNDctM2U4MWFjOTUwNTMx
-#EXTINF:-1 tvg-name="305" tvg-id=".Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/unifisport2.png" group-title="BACKUP",UNI SPORT 2
-#http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/264788
-http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjE5ZjlhOGEtYmM0Ny0zZWZiLTgzNDctM2U4MWFjOTUwNTMx
-#EXTINF:-1 tvg-name="305" tvg-id=".Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/unifisport3.png" group-title="BACKUP",UNI SPORT 3
-#http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/264789
-http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjE5ZjlhOGEtYmM0Ny0zZWZiLTgzNDctM2U4MWFjOTUwNTMx
-#EXTINF:-1 tvg-name="305" tvg-id=".Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/unifisport4.png" group-title="BACKUP",UNI SPORT 4
-#http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/264790
-http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjE5ZjlhOGEtYmM0Ny0zZWZiLTgzNDctM2U4MWFjOTUwNTMx
-#EXTINF:-1 tvg-name="305" tvg-id=".Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/unifisport5.png" group-title="BACKUP",UNI SPORT 5
-#http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/264791
-http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Fig.Int" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428264_ico.png" group-title="BACKUP",FIGHT SPORTS
-https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
-
-#EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428141_ico.png" group-title="BACKUP",WWE NETWORK
-http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157562
-#http://51.79.223.246:61980/myplay/c_58016/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380f
+#EXTINF:-1 tvg-ID="CHN" group-title="INDONESIA" tvg-logo="https://i.ibb.co/5Yh1vnh/redbulllogo.png",REDBULL TV
+http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_3360.m3u8
