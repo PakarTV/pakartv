@@ -1,415 +1,592 @@
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://upload.112114.xyz/logo/HBO.png" group-title="starhub+astro+sports",HBO
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://upload.112114.xyz/logo/HBO.png" group-title="Astro",HBO
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941648
-#EXTINF:-1 tvg-id="" tvg-name="HBO Hits HD" tvg-logo="https://upload.112114.xyz/logo/HBO%20Hits.png" group-title="starhub+astro+sports",HBO Hits
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits HD" tvg-logo="https://upload.112114.xyz/logo/HBO%20Hits.png" group-title="Astro",HBO Hits
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941647
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="https://upload.112114.xyz/logo/HBO%20Family.png" group-title="starhub+astro+sports",HBO Family
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="https://upload.112114.xyz/logo/HBO%20Family.png" group-title="Astro",HBO Family
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941646
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD"  tvg-logo="https://upload.112114.xyz/logo/HBO%20Signature.png" group-title="starhub+astro+sports",HBO Signature
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD"  tvg-logo="https://upload.112114.xyz/logo/HBO%20Signature.png" group-title="Astro",HBO Signature
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941645
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="starhub+astro+sports",Cinemax
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="Astro",Cinemax
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941659
-#EXTINF:-1 tvg-id="" tvg-name="SCM HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="starhub+astro+sports",卫视电影台
+
+#EXTINF:-1 tvg-id="" tvg-name="SCM HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="Astro",卫视电影台
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941625
-#EXTINF:-1 tvg-id="" tvg-name="Star Chinese Channel HD" tvg-logo="https://upload.112114.xyz/logo/STARCHINESE.png" group-title="starhub+astro+sports",卫视中文台
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Chinese Channel HD" tvg-logo="https://upload.112114.xyz/logo/STARCHINESE.png" group-title="Astro",卫视中文台
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941624
-#EXTINF:-1 tvg-id="63803" tvg-name="Celestial Movies HD" tvg-logo="https://iptv-pro.github.io/logo/tianying.png" group-title="starhub+astro+sports",天映电影
+
+#EXTINF:-1 tvg-id="63803" tvg-name="Celestial Movies HD" tvg-logo="https://iptv-pro.github.io/logo/tianying.png" group-title="Astro",天映电影
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941618
-#EXTINF:-1 tvg-id="63804" tvg-name="CCM" tvg-logo="https://iptv-pro.github.io/logo/tianyingjd.png" group-title="starhub+astro+sports",天映经典
+
+#EXTINF:-1 tvg-id="63804" tvg-name="CCM" tvg-logo="https://iptv-pro.github.io/logo/tianyingjd.png" group-title="Astro",天映经典
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941639
-#EXTINF:-1 tvg-id="63792" tvg-name="Hub E City HD" tvg-logo="https://i.imgur.com/UscuzZm.png" group-title="starhub+astro+sports",HUB都会
+
+#EXTINF:-1 tvg-id="63792" tvg-name="Hub E City HD" tvg-logo="https://i.imgur.com/UscuzZm.png" group-title="Astro",HUB都会
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941632
-#EXTINF:-1 tvg-id="63800" tvg-name="Hub VVDrama HD" tvg-logo="https://i.imgur.com/7iYCNKa.png" group-title="starhub+astro+sports",HUB娱家
+
+#EXTINF:-1 tvg-id="63800" tvg-name="Hub VVDrama HD" tvg-logo="https://i.imgur.com/7iYCNKa.png" group-title="Astro",HUB娱家
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941634
-#EXTINF:-1 tvg-id="63702" tvg-name="Channel 5 HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="starhub+astro+sports",Channel 5
+
+#EXTINF:-1 tvg-id="63702" tvg-name="Channel 5 HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Astro",Channel 5
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941615
-#EXTINF:-1 tvg-id="63703" tvg-name="Channel 8 HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-title="starhub+astro+sports",Channel 8
+
+#EXTINF:-1 tvg-id="63703" tvg-name="Channel 8 HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-title="Astro",Channel 8
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941616
-#EXTINF:-1 tvg-id="63707" tvg-name="Channel U HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-title="starhub+astro+sports",Channel U
+
+#EXTINF:-1 tvg-id="63707" tvg-name="Channel U HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-title="Astro",Channel U
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941617
-#EXTINF:-1 tvg-id="63809" tvg-name="National Geographic HD" tvg-logo="https://media.info/i/lf/300/1644358707/1077.png" group-title="starhub+astro+sports",国家地理频道
+
+#EXTINF:-1 tvg-id="63809" tvg-name="National Geographic HD" tvg-logo="https://media.info/i/lf/300/1644358707/1077.png" group-title="Astro",国家地理频道
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941665
-#EXTINF:-1 tvg-id="63810" tvg-name="Nat Geo Wild HD" tvg-logo="https://media.info/i/lf/300/1405279177/1125.png" group-title="starhub+astro+sports",国家地理野生频道
+
+#EXTINF:-1 tvg-id="63810" tvg-name="Nat Geo Wild HD" tvg-logo="https://media.info/i/lf/300/1405279177/1125.png" group-title="Astro",国家地理野生频道
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941664
-#EXTINF:-1 tvg-id="63808" tvg-name="BBC Earth HD" tvg-logo="https://media.info/i/lf/300/1641979823/6953.png" group-title="starhub+astro+sports",BBCEarth
+
+#EXTINF:-1 tvg-id="63808" tvg-name="BBC Earth HD" tvg-logo="https://media.info/i/lf/300/1641979823/6953.png" group-title="Astro",BBCEarth
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941667
-#EXTINF:-1 tvg-id="63813" tvg-name="BBC Lifestyle HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" group-title="starhub+astro+sports",BBCLifestyle
+
+#EXTINF:-1 tvg-id="63813" tvg-name="BBC Lifestyle HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" group-title="Astro",BBCLifestyle
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941668
-#EXTINF:-1 tvg-id="63806" tvg-name="HISTORY HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="starhub+astro+sports",History
+
+#EXTINF:-1 tvg-id="63806" tvg-name="HISTORY HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="Astro",History
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941661
-#EXTINF:-1 tvg-id="63825" tvg-name="AXN HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="starhub+astro+sports",AXN
+
+#EXTINF:-1 tvg-id="63825" tvg-name="AXN HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="Astro",AXN
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941660
-#EXTINF:-1 tvg-id="63692" tvg-name="WarnerTV HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/WarnerTV.png" group-title="starhub+astro+sports",WarnerTV
+
+#EXTINF:-1 tvg-id="63692" tvg-name="WarnerTV HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/WarnerTV.png" group-title="Astro",WarnerTV
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941652
-#EXTINF:-1 tvg-id="63807" tvg-name="Crime + Investigation HD" tvg-logo="https://upload.112114.xyz/logo/Crime%20%26%20Investigation.png" group-title="starhub+astro+sports",CI
+
+#EXTINF:-1 tvg-id="63807" tvg-name="Crime + Investigation HD" tvg-logo="https://upload.112114.xyz/logo/Crime%20%26%20Investigation.png" group-title="Astro",CI
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941666
-#EXTINF:-1 tvg-id="63691" tvg-name="Lifetime HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Lifetime.png" group-title="starhub+astro+sports",Lifetime
+
+#EXTINF:-1 tvg-id="63691" tvg-name="Lifetime HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Lifetime.png" group-title="Astro",Lifetime
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941669
-#EXTINF:-1 tvg-id="63708" tvg-name="Paramount Network" tvg-logo="https://www.paramount.com/themes/custom/viacom/viacom.png" group-title="starhub+astro+sports",Paramount Network HD
+
+#EXTINF:-1 tvg-id="63708" tvg-name="Paramount Network" tvg-logo="https://www.paramount.com/themes/custom/viacom/viacom.png" group-title="Astro",Paramount Network HD
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941654
-#EXTINF:-1 tvg-id="12582" tvg-name="ROCK ENT (HD)" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="starhub+astro+sports",ROCK ENTERTAINMENT
+
+#EXTINF:-1 tvg-id="12582" tvg-name="ROCK ENT (HD)" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="Astro",ROCK ENTERTAINMENT
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941643
-#EXTINF:-1 tvg-id="63812" tvg-name="Travelxp HD" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/7/7146.1525122979.png" group-title="starhub+astro+sports",TravelXP
+
+#EXTINF:-1 tvg-id="63812" tvg-name="Travelxp HD" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/7/7146.1525122979.png" group-title="Astro",TravelXP
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941662
-#EXTINF:-1 tvg-id="63693" tvg-name="Hits HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HITS.png" group-title="starhub+astro+sports",HITS
+
+#EXTINF:-1 tvg-id="63693" tvg-name="Hits HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HITS.png" group-title="Astro",HITS
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941578
-#EXTINF:-1 tvg-id="63690" tvg-name="HITS MOVIES HD" tvg-logo="https://upload.112114.xyz/logo/Hits.png" group-title="starhub+astro+sports",HITS MOVIES
+
+#EXTINF:-1 tvg-id="63690" tvg-name="HITS MOVIES HD" tvg-logo="https://upload.112114.xyz/logo/Hits.png" group-title="Astro",HITS MOVIES
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941577
-#EXTINF:-1 tvg-id="63699" tvg-name="CinemaWorld HD" tvg-logo="https://upload.112114.xyz/logo/CINEMAWORLD.png" group-title="starhub+astro+sports",CINEMAWORLD
+
+#EXTINF:-1 tvg-id="63699" tvg-name="CinemaWorld HD" tvg-logo="https://upload.112114.xyz/logo/CINEMAWORLD.png" group-title="Astro",CINEMAWORLD
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941658
-#EXTINF:-1 tvg-id="63694" tvg-name="Animax HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="starhub+astro+sports",Animax
+
+#EXTINF:-1 tvg-id="63694" tvg-name="Animax HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="Astro",Animax
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941676
-#EXTINF:-1 tvg-id="63793" tvg-name="Nickelodeon HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="starhub+astro+sports",Nickelodeon
+
+#EXTINF:-1 tvg-id="63793" tvg-name="Nickelodeon HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="Astro",Nickelodeon
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941671
-#EXTINF:-1 tvg-id="63785" tvg-name="Nick Jr HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" group-title="starhub+astro+sports",NickJr.
+
+#EXTINF:-1 tvg-id="63785" tvg-name="Nick Jr HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" group-title="Astro",NickJr.
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941670
-#EXTINF:-1 tvg-id="63784" tvg-name="Cbeebies HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CBeebies.png" group-title="starhub+astro+sports",CBeebies
+
+#EXTINF:-1 tvg-id="63784" tvg-name="Cbeebies HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CBeebies.png" group-title="Astro",CBeebies
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941672
-#EXTINF:-1 tvg-id="63795" tvg-name="Cartoon Network" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNCartoon.png" group-title="starhub+astro+sports",Cartoon Network
+
+#EXTINF:-1 tvg-id="63795" tvg-name="Cartoon Network" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNCartoon.png" group-title="Astro",Cartoon Network
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941673
-#EXTINF:-1 tvg-id="63796" tvg-name="Boomerang HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BOOMERANG.png" group-title="starhub+astro+sports",Boomerang
+
+#EXTINF:-1 tvg-id="63796" tvg-name="Boomerang HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BOOMERANG.png" group-title="Astro",Boomerang
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941674
-#EXTINF:-1 tvg-id="63787" tvg-name="DreamWorks Channel HD" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="starhub+astro+sports",Dreamworks
+
+#EXTINF:-1 tvg-id="63787" tvg-name="DreamWorks Channel HD" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="Astro",Dreamworks
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941656
-#EXTINF:-1 tvg-id="63788" tvg-name="Now Jelli HD" tvg-logo="https://iptv-pro.github.io/logo/NowJelli.png" group-title="starhub+astro+sports",NOW紫金国际台
+
+#EXTINF:-1 tvg-id="63788" tvg-name="Now Jelli HD" tvg-logo="https://iptv-pro.github.io/logo/NowJelli.png" group-title="Astro",NOW紫金国际台
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941630
-#EXTINF:-1 tvg-id="63873" tvg-name="KBS World HD" tvg-logo="https://upload.112114.xyz/logo/KBS%20World.png" group-title="starhub+astro+sports",KBS World
+
+#EXTINF:-1 tvg-id="63873" tvg-name="KBS World HD" tvg-logo="https://upload.112114.xyz/logo/KBS%20World.png" group-title="Astro",KBS World
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941604
-#EXTINF:-1 tvg-id="63790" tvg-name="ONE HD" tvg-logo="https://upload.112114.xyz/logo/ONE.png" group-title="starhub+astro+sports",ONE	
+
+#EXTINF:-1 tvg-id="63790" tvg-name="ONE HD" tvg-logo="https://upload.112114.xyz/logo/ONE.png" group-title="Astro",ONE	
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941628
-#EXTINF:-1 tvg-id="63791" tvg-name="tvN HD" tvg-logo="https://upload.112114.xyz/logo/TVN.png" group-title="starhub+astro+sports",tvN
+
+#EXTINF:-1 tvg-id="63791" tvg-name="tvN HD" tvg-logo="https://upload.112114.xyz/logo/TVN.png" group-title="Astro",tvN
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941623
-#EXTINF:-1 tvg-id="63783" tvg-name="GEM HD" tvg-logo="https://upload.112114.xyz/logo/GEM.png" group-title="starhub+astro+sports",GEM
+
+#EXTINF:-1 tvg-id="63783" tvg-name="GEM HD" tvg-logo="https://upload.112114.xyz/logo/GEM.png" group-title="Astro",GEM
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941608
-#EXTINF:-1 tvg-id="63786" tvg-name="Arirang TV HD" tvg-logo="https://upload.112114.xyz/logo/Arirang%20TV.png" group-title="starhub+astro+sports",Arirang TV
+
+#EXTINF:-1 tvg-id="63786" tvg-name="Arirang TV HD" tvg-logo="https://upload.112114.xyz/logo/Arirang%20TV.png" group-title="Astro",Arirang TV
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941614
 
-#EXTINF:-1 tvg-id="63762" tvg-name="NBA TV HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png" group-title="starhub+astro+sports",NBA TV
+#EXTINF:-1 tvg-id="63762" tvg-name="NBA TV HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png" group-title="Sports",NBA TV
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941562
-#EXTINF:-1 tvg-id="63758" tvg-name="beIN SPORTS HD" tvg-logo="https://upload.112114.xyz/logo/BEINENG1.png" group-title="starhub+astro+sports",beIN SPORTS 1
+
+#EXTINF:-1 tvg-id="63758" tvg-name="beIN SPORTS HD" tvg-logo="https://upload.112114.xyz/logo/BEINENG1.png" group-title="Sports",beIN SPORTS 1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941569
-#EXTINF:-1 tvg-id="63756" tvg-name="beIN SPORTS 2 HD" tvg-logo="https://upload.112114.xyz/logo/BEINENG2.png" group-title="starhub+astro+sports",beIN SPORTS 2
+
+#EXTINF:-1 tvg-id="63756" tvg-name="beIN SPORTS 2 HD" tvg-logo="https://upload.112114.xyz/logo/BEINENG2.png" group-title="Sports",beIN SPORTS 2
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941568
-#EXTINF:-1 tvg-id="63759" tvg-name="beIN Sports 3" tvg-logo="https://upload.112114.xyz/logo/BEINENG3.png" group-title="starhub+astro+sports",beIN SPORTS 3
+
+#EXTINF:-1 tvg-id="63759" tvg-name="beIN Sports 3" tvg-logo="https://upload.112114.xyz/logo/BEINENG3.png" group-title="Sports",beIN SPORTS 3
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941567
-#EXTINF:-1 tvg-id="63747" tvg-name="Hub Sports 1 HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/201_1920x1080_HTV.png" group-title="starhub+astro+sports",Hub Sports 1
+
+#EXTINF:-1 tvg-id="63747" tvg-name="Hub Sports 1 HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/201_1920x1080_HTV.png" group-title="Sports",Hub Sports 1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941573
-#EXTINF:-1 tvg-id="63748" tvg-name="Hub Sports 2 HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/202_1920x1080_HTV.png" group-title="starhub+astro+sports",Hub Sports 2
+
+#EXTINF:-1 tvg-id="63748" tvg-name="Hub Sports 2 HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/202_1920x1080_HTV.png" group-title="Sports",Hub Sports 2
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941572
-#EXTINF:-1 tvg-id="63750" tvg-name="Hub Sports 4 HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png" group-title="starhub+astro+sports",Hub Sports 4
+
+#EXTINF:-1 tvg-id="63750" tvg-name="Hub Sports 4 HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png" group-title="Sports",Hub Sports 4
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941571
-#EXTINF:-1 tvg-id="63754" tvg-name="SPOTV" tvg-logo="https://upload.112114.xyz/logo/SPOTV.png" group-title="starhub+astro+sports",SPOTV
+
+#EXTINF:-1 tvg-id="63754" tvg-name="SPOTV" tvg-logo="https://upload.112114.xyz/logo/SPOTV.png" group-title="Sports",SPOTV
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941564
-#EXTINF:-1 tvg-id="63755" tvg-name="SPOTV2" tvg-logo="https://upload.112114.xyz/logo/SPOTV2.png" group-title="starhub+astro+sports",SPOTV2
+
+#EXTINF:-1 tvg-id="63755" tvg-name="SPOTV2" tvg-logo="https://upload.112114.xyz/logo/SPOTV2.png" group-title="Sports",SPOTV2
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941563
-#EXTINF:-1 tvg-id="63746" tvg-name="CNN HD" tvg-logo="https://upload.112114.xyz/logo/CNN%20International.png" group-title="starhub+astro+sports",CNN
+
+#EXTINF:-1 tvg-id="63746" tvg-name="CNN HD" tvg-logo="https://upload.112114.xyz/logo/CNN%20International.png" group-title="Astro",CNN
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941690
-#EXTINF:-1 tvg-id="63739" tvg-name="BBC World News HD" tvg-logo="https://upload.112114.xyz/logo/BBC%20World%20News.png" group-title="starhub+astro+sports",BBC World News
+
+#EXTINF:-1 tvg-id="63739" tvg-name="BBC World News HD" tvg-logo="https://upload.112114.xyz/logo/BBC%20World%20News.png" group-title="Astro",BBC World News
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941693
-#EXTINF:-1 tvg-id="63741" tvg-name="Sky News HD" tvg-logo="https://media.info/i/lf/300/1641766200/1083.png" group-title="starhub+astro+sports",Sky News
+
+#EXTINF:-1 tvg-id="63741" tvg-name="Sky News HD" tvg-logo="https://media.info/i/lf/300/1641766200/1083.png" group-title="Astro",Sky News
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941684
-#EXTINF:-1 tvg-id="63740" tvg-name="Fox News Channel HD" tvg-logo="https://upload.112114.xyz/logo/FOXNEWS.png" group-title="starhub+astro+sports",FOX News Channel
+
+#EXTINF:-1 tvg-id="63740" tvg-name="Fox News Channel HD" tvg-logo="https://upload.112114.xyz/logo/FOXNEWS.png" group-title="Astro",FOX News Channel
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941685
-#EXTINF:-1 tvg-id="63742" tvg-name="Euronews HD" tvg-logo="https://upload.112114.xyz/logo/EURONEWS.png" group-title="starhub+astro+sports",EuroNews
+
+#EXTINF:-1 tvg-id="63742" tvg-name="Euronews HD" tvg-logo="https://upload.112114.xyz/logo/EURONEWS.png" group-title="Astro",EuroNews
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941686
-#EXTINF:-1 tvg-id="63736" tvg-name="DW (Deutsch)" tvg-logo="https://upload.112114.xyz/logo/DW%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0.png" group-title="starhub+astro+sports",DW English
+
+#EXTINF:-1 tvg-id="63736" tvg-name="DW (Deutsch)" tvg-logo="https://upload.112114.xyz/logo/DW%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0.png" group-title="Astro",DW English
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941687
-#EXTINF:-1 tvg-id="63706" tvg-name="Channel NewsAsia HD" tvg-logo="https://upload.112114.xyz/logo/CHANNELNEWSASIA.png" group-title="starhub+astro+sports",CNA
+
+#EXTINF:-1 tvg-id="63706" tvg-name="Channel NewsAsia HD" tvg-logo="https://upload.112114.xyz/logo/CHANNELNEWSASIA.png" group-title="Astro",CNA
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941688
-#EXTINF:-1 tvg-id="63743" tvg-name="CNBC HD" tvg-logo="https://upload.112114.xyz/logo/CNBC%20Asia%20Channel.png" group-title="starhub+astro+sports",CNBC
+
+#EXTINF:-1 tvg-id="63743" tvg-name="CNBC HD" tvg-logo="https://upload.112114.xyz/logo/CNBC%20Asia%20Channel.png" group-title="Astro",CNBC
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941689
-#EXTINF:-1 tvg-id="63744" tvg-name="Bloomberg Television HD" tvg-logo="https://upload.112114.xyz/logo/Bloomberg%20TV.png" group-title="starhub+astro+sports",Bloomberg
+
+#EXTINF:-1 tvg-id="63744" tvg-name="Bloomberg Television HD" tvg-logo="https://upload.112114.xyz/logo/Bloomberg%20TV.png" group-title="Astro",Bloomberg
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941692
-#EXTINF:-1 tvg-id="63781" tvg-name="NHK World Premium HD" tvg-logo="https://upload.112114.xyz/logo/NHK%20WORLD%20PREMIUM.png" group-title="starhub+astro+sports",NHK
+
+#EXTINF:-1 tvg-id="63781" tvg-name="NHK World Premium HD" tvg-logo="https://upload.112114.xyz/logo/NHK%20WORLD%20PREMIUM.png" group-title="Astro",NHK
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941611
-#EXTINF:-1 tvg-id="63782" tvg-name="NHK WORLD - JAPAN HD" tvg-logo="https://upload.112114.xyz/logo/NHK%20WORLD-JAPAN.png" group-title="starhub+astro+sports",NHK World - Japan
+
+#EXTINF:-1 tvg-id="63782" tvg-name="NHK WORLD - JAPAN HD" tvg-logo="https://upload.112114.xyz/logo/NHK%20WORLD-JAPAN.png" group-title="Astro",NHK World - Japan
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941610
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/c4/e4/1f/c4e41fc61929bfd7f871812906f17127.png" group-title="starhub+astro+sports",TVBJ1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/c4/e4/1f/c4e41fc61929bfd7f871812906f17127.png" group-title="Astro",TVBJ1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153395
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/c4/e4/1f/c4e41fc61929bfd7f871812906f17127.png" group-title="starhub+astro+sports",TVB1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/c4/e4/1f/c4e41fc61929bfd7f871812906f17127.png" group-title="Astro",TVB1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153396
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/c4/e4/1f/c4e41fc61929bfd7f871812906f17127.png" group-title="starhub+astro+sports",TVBE
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/c4/e4/1f/c4e41fc61929bfd7f871812906f17127.png" group-title="Astro",TVBE
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153398
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVB%20Xing%20He.png" group-title="starhub+astro+sports",TVB XING HE
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVB%20Xing%20He.png" group-title="Astro",TVB XING HE
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153506
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVB%20Jade.png" group-title="starhub+astro+sports",TVB CHINESE
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVB%20Jade.png" group-title="Astro",TVB CHINESE
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153401
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVB%20Classic.png" group-title="starhub+astro+sports",TVB CLASSIC
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVB%20Classic.png" group-title="Astro",TVB CLASSIC
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153503
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVB%20Entertainment%20News.png" group-title="starhub+astro+sports",TVB E NEWS
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVB%20Entertainment%20News.png" group-title="Astro",TVB E NEWS
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153504
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVB%20Jade.png" group-title="starhub+astro+sports",TVB PEARL
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVB%20Jade.png" group-title="Astro",TVB PEARL
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153399
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/c4/e4/1f/c4e41fc61929bfd7f871812906f17127.png" group-title="starhub+astro+sports",TVB DRAMA
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/c4/e4/1f/c4e41fc61929bfd7f871812906f17127.png" group-title="Astro",TVB DRAMA
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153400
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVB%20Jade.png" group-title="starhub+astro+sports",TVB JADE
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVB%20Jade.png" group-title="Astro",TVB JADE
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153505
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/45/Fairchild_TV_Logo_2013.png" group-title="starhub+astro+sports",FAIRCHILD EAST
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/45/Fairchild_TV_Logo_2013.png" group-title="Astro",FAIRCHILD EAST
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=90350
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/45/Fairchild_TV_Logo_2013.png" group-title="starhub+astro+sports",FAIRCHILD WEST
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/45/Fairchild_TV_Logo_2013.png" group-title="Astro",FAIRCHILD WEST
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=90351
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/45/Fairchild_TV_Logo_2013.png" group-title="starhub+astro+sports",FAIRCHILD 2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/45/Fairchild_TV_Logo_2013.png" group-title="Astro",FAIRCHILD 2
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=90352
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/IQIYI.png" group-title="starhub+astro+sports",astro 爱奇艺
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/IQIYI.png" group-title="Astro",astro 爱奇艺
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571198&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/Astro%E5%85%A8%E4%BD%B3.png" group-title="starhub+astro+sports",astro 全佳
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/Astro%E5%85%A8%E4%BD%B3.png" group-title="Astro",astro 全佳
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571192&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/ASTROSHUANGXING.png" group-title="starhub+astro+sports",astro 双星
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/ASTROSHUANGXING.png" group-title="Astro",astro 双星
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571191&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/Astro%E5%B0%8F%E5%A4%AA%E9%98%B3.png" group-title="starhub+astro+sports",astro 小太阳 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/Astro%E5%B0%8F%E5%A4%AA%E9%98%B3.png" group-title="Astro",astro 小太阳 
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571230&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/AstroAOD.png" group-title="starhub+astro+sports",astro AOD 351
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/AstroAOD.png" group-title="Astro",astro AOD 351
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571226&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/AstroAOD.png" group-title="starhub+astro+sports",astro AOD 352
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/AstroAOD.png" group-title="Astro",astro AOD 352
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571225&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/AstroAOD.png" group-title="starhub+astro+sports",astro AOD 353
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/AstroAOD.png" group-title="Astro",astro AOD 353
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571229&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVB%20Jade.png" group-title="starhub+astro+sports",TVB 翡翠台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVB%20Jade.png" group-title="Astro",TVB 翡翠台
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVB%20Xing%20He.png" group-title="starhub+astro+sports",TVB 星河频道
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVB%20Xing%20He.png" group-title="Astro",TVB 星河频道
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571186&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVB%20Classic.png" group-title="starhub+astro+sports",TVB 经典台
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVB%20Classic.png" group-title="Astro",TVB 经典台
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571197&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVB%20Entertainment%20News.png" group-title="starhub+astro+sports",TVB 娱乐新闻台
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVB%20Entertainment%20News.png" group-title="Astro",TVB 娱乐新闻台
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571188&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/tianyingjd.png" group-title="starhub+astro+sports",天映经典
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/tianyingjd.png" group-title="Astro",天映经典
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571182&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/tianying.png" group-title="starhub+astro+sports",天映频道
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/tianying.png" group-title="Astro",天映频道
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571218&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ctiasia.chinatimes.com/wp-content/uploads/2018/12/logo-460x180-300x117.png" group-title="starhub+astro+sports",中天亚洲台
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ctiasia.chinatimes.com/wp-content/uploads/2018/12/logo-460x180-300x117.png" group-title="Astro",中天亚洲台
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571212&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVBS%E4%BA%9A%E6%B4%B2%E5%8F%B0.png" group-title="starhub+astro+sports",TVBS亚洲台
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVBS%E4%BA%9A%E6%B4%B2%E5%8F%B0.png" group-title="Astro",TVBS亚洲台
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571185&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png" group-title="starhub+astro+sports",探索亚洲
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png" group-title="Astro",探索亚洲
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571181&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="starhub+astro+sports",探索频道
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="Astro",探索频道
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571210&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/New_England_Sports_Network_%28logo%29.png/220px-New_England_Sports_Network_%28logo%29.png" group-title="starhub+astro+sports",NESN UHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/New_England_Sports_Network_%28logo%29.png/220px-New_England_Sports_Network_%28logo%29.png" group-title="Sports",NESN UHD
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1124351&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="starhub+astro+sports",astro SuperSport UHD
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="Sports",Astro SuperSport UHD
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1016544&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-c.png" group-title="starhub+astro+sports",Now Sports 4K
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-c.png" group-title="Sports",Now Sports 4K
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032489&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="Sports",BT Sport Ultimate
 http://4ksuper.live/play/live.php?mac=00:1a:79:b1:05:9e&stream=1038792&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/eleven.png" group-title="starhub+astro+sports",ELEVEN SPORTS 1 4K
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/eleven.png" group-title="Sports",ELEVEN SPORTS 1 4K
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=905665&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="starhub+astro+sports",astro SuperSport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Sports",Astro SuperSport
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918986&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="starhub+astro+sports",astro SuperSport 2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sports",Astro SuperSport 2
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918985&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="starhub+astro+sports",astro SuperSport 3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",Astro SuperSport 3
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918984&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="starhub+astro+sports",astro SuperSport 4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",Astro SuperSport 4
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918983&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="starhub+astro+sports",astro SuperSport 5
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="Sports",Astro SuperSport 5
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918982&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-c.png" group-title="starhub+astro+sports",Now Sports Premier League 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-c.png" group-title="Sports",Now Sports Premier League 1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110622&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/631-wbg-c.png" group-title="starhub+astro+sports",Now Sports 1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/631-wbg-c.png" group-title="Sports",Now Sports 1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110615&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/632-wbg-c.png" group-title="starhub+astro+sports",Now Sports 2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/632-wbg-c.png" group-title="Sports",Now Sports 2
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110616&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/633-wbg-c.png" group-title="starhub+astro+sports",Now Sports 3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/633-wbg-c.png" group-title="Sports",Now Sports 3
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110617&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/634-wbg-c.png" group-title="starhub+astro+sports",Now Sports 4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/634-wbg-c.png" group-title="Sports",Now Sports 4
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110618&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/635-wbg-c.png" group-title="starhub+astro+sports",Now Sports 5
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/635-wbg-c.png" group-title="Sports",Now Sports 5
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110619&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/636-wbg-c.png" group-title="starhub+astro+sports",Now Sports 6
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/636-wbg-c.png" group-title="Sports",Now Sports 6
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110620&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/637-wbg-c.png" group-title="starhub+astro+sports",Now Sports 7
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/637-wbg-c.png" group-title="Sports",Now Sports 7
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110621&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/201_1920x1080_HTV.png" group-title="starhub+astro+sports",Hub Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/201_1920x1080_HTV.png" group-title="Sports",Hub Sports 1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110667&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/202_1920x1080_HTV.png" group-title="starhub+astro+sports",Hub Sports 2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/202_1920x1080_HTV.png" group-title="Sports",Hub Sports 2
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110666&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png" group-title="starhub+astro+sports",Hub Sports 4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png" group-title="Sports",Hub Sports 4
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110665&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2020/05/espn.png" group-title="starhub+astro+sports",ESPN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2020/05/espn.png" group-title="Sports",ESPN
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45579&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2020/09/espn2.png" group-title="starhub+astro+sports",ESPN 2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2020/09/espn2.png" group-title="Sports",ESPN 2
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45580&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2020/09/fox-sports-1.png" group-title="starhub+astro+sports",FS 1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2020/09/fox-sports-1.png" group-title="Sports",FS 1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45571&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2020/11/fox-sports-2.png" group-title="starhub+astro+sports",FS 2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2020/11/fox-sports-2.png" group-title="Sports",FS 2
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45570&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://substance.agency/wp-content/uploads/2016/06/fsp_10.jpg" group-title="starhub+astro+sports",FOX SOCCER PLUS
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://substance.agency/wp-content/uploads/2016/06/fsp_10.jpg" group-title="Sports",FOX SOCCER PLUS
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45572&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="starhub+astro+sports",BT Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="Sports",BT Sport 1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30567&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="starhub+astro+sports",BT Sport 2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="Sports",BT Sport 2
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30566&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="starhub+astro+sports",BT Sport 3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="Sports",BT Sport 3
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30565&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="starhub+astro+sports",BT Sport 4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="Sports",BT Sport 4
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30564&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png" group-title="starhub+astro+sports",Sky Sports Premier League
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png" group-title="Sports",Sky Sports Premier League
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30493&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600241/6752.png" group-title="starhub+astro+sports",Sky Sports Football
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600241/6752.png" group-title="Sports",Sky Sports Football
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30498&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600158/1086.png" group-title="starhub+astro+sports",Sky Sports Main Event
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600158/1086.png" group-title="Sports",Sky Sports Main Event
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30496&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600470/5995.png" group-title="starhub+astro+sports",Sky Sports Mix
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600470/5995.png" group-title="Sports",Sky Sports Mix
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30495&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600377/1135.png" group-title="starhub+astro+sports",Sky Sports Action
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600377/1135.png" group-title="Sports",Sky Sports Action
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=929003&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600420/6753.png" group-title="starhub+astro+sports",Sky Sports Arena
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600420/6753.png" group-title="Sports",Sky Sports Arena
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30500&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1500468425/1514.png" group-title="starhub+astro+sports",Sky Sports F1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1500468425/1514.png" group-title="Sports",Sky Sports F1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30499&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/2560px-TSN_Logo.svg.png" group-title="starhub+astro+sports",TSN 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/2560px-TSN_Logo.svg.png" group-title="Sports",TSN 1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=177344&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/2560px-TSN_Logo.svg.png" group-title="starhub+astro+sports",TSN 2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/2560px-TSN_Logo.svg.png" group-title="Sports",TSN 2
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=177345&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/2560px-TSN_Logo.svg.png" group-title="starhub+astro+sports",TSN 3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/2560px-TSN_Logo.svg.png" group-title="Sports",TSN 3
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=177346&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/2560px-TSN_Logo.svg.png" group-title="starhub+astro+sports",TSN 4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/2560px-TSN_Logo.svg.png" group-title="Sports",TSN 4
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=904213&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/2560px-TSN_Logo.svg.png" group-title="starhub+astro+sports",TSN 5
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/2560px-TSN_Logo.svg.png" group-title="Sports",TSN 5
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=904212&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Eurosport_logo_blue_background.png" group-title="starhub+astro+sports",EUROSPORT 1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Eurosport_logo_blue_background.png" group-title="Sports",EUROSPORT 1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30541&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Eurosport_logo_blue_background.png" group-title="starhub+astro+sports",EUROSPORT 2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Eurosport_logo_blue_background.png" group-title="Sports",EUROSPORT 2
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30540&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1389608856725205001/qw4jhnxg_400x400.jpg" group-title="starhub+astro+sports",LALIGA TV
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1389608856725205001/qw4jhnxg_400x400.jpg" group-title="Sports",LALIGA TV
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=163611&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png" group-title="starhub+astro+sports",VIAPLAY SPORTS 1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png" group-title="Sports",VIAPLAY SPORTS 1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=163607&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png" group-title="starhub+astro+sports",VIAPLAY SPORTS 2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png" group-title="Sports",VIAPLAY SPORTS 2
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45251&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png" group-title="starhub+astro+sports",VIAPLAY XTRA
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png" group-title="Sports",VIAPLAY XTRA
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=546807&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2021/02/edgesports-logo-sml-v2.png" group-title="starhub+astro+sports",EDGE SPORT
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2021/02/edgesports-logo-sml-v2.png" group-title="Sports",EDGE SPORT
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1014266&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="starhub+astro+sports",SONY SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="Sports",SONY SPORTS 1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1114576&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="starhub+astro+sports",SONY SPORTS 2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="Sports",SONY SPORTS 2
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1114577&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="starhub+astro+sports",SONY SPORTS 3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="Sports",SONY SPORTS 3
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156024&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="starhub+astro+sports",STAR SPORTS 1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="Sports",STAR SPORTS 1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155968&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="starhub+astro+sports",STAR SPORTS 2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="Sports",STAR SPORTS 2
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155966&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="starhub+astro+sports",STAR SPORTS 3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="Sports",STAR SPORTS 3
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155976&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="starhub+astro+sports",STAR SPORTS SELECT 1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="Sports",STAR SPORTS SELECT 1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155972&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="starhub+astro+sports",STAR SPORTS SELECT 2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="Sports",STAR SPORTS SELECT 2
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155973&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="starhub+astro+sports",Hub Premier 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="Sports",Hub Premier 1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032529&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="starhub+astro+sports",Hub Premier 2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="Sports",Hub Premier 2
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032528&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png" group-title="starhub+astro+sports",Hub Premier 3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png" group-title="Sports",Hub Premier 3
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032527&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png" group-title="starhub+astro+sports",Hub Premier 4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png" group-title="Sports",Hub Premier 4
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032526&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png" group-title="starhub+astro+sports",Hub Premier 5
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png" group-title="Sports",Hub Premier 5
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032525&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png" group-title="starhub+astro+sports",Hub Premier 6
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png" group-title="Sports",Hub Premier 6
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032524&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png" group-title="starhub+astro+sports",Hub Premier 7
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png" group-title="Sports",Hub Premier 7
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032523&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png" group-title="starhub+astro+sports",Hub Premier 8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png" group-title="Sports",Hub Premier 8
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032522&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png" group-title="starhub+astro+sports",Hub Premier 9
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png" group-title="Sports",Hub Premier 9
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032521&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png" group-title="starhub+astro+sports",Hub Premier 10
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png" group-title="Sports",Hub Premier 10
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032520&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png" group-title="starhub+astro+sports",Hub Premier 11
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png" group-title="Sports",Hub Premier 11
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032519&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="starhub+astro+sports",ELEVEN SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="Sports",ELEVEN SPORTS 1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880457&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="starhub+astro+sports",ELEVEN SPORTS 2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="Sports",ELEVEN SPORTS 2
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880456&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="starhub+astro+sports",ELEVEN SPORTS 3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="Sports",ELEVEN SPORTS 3
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880455&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="starhub+astro+sports",ELEVEN SPORTS 4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="Sports",ELEVEN SPORTS 4
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880454&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="starhub+astro+sports",CANAL+ SPORT 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sports",CANAL+ SPORT 1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880461&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="starhub+astro+sports",CANAL+ SPORT 2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sports",CANAL+ SPORT 2
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880460&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="starhub+astro+sports",CANAL+ SPORT 3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sports",CANAL+ SPORT 3
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880459&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="starhub+astro+sports",CANAL+ SPORT 4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sports",CANAL+ SPORT 4
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880458&extension=ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA LIVE 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA LIVE 1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836373&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA LIVE 2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA LIVE 2
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836372&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA LIVE 3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA LIVE 3
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836371&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA LIVE 4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA LIVE 4
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836370&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA LIVE 5
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA LIVE 5
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836369&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA LIVE 6
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA LIVE 6
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836368&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA LIVE 7
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA LIVE 7
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836367&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA LIVE 8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA LIVE 8
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836366&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA LIVE 9
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA LIVE 9
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836365&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA LIVE 10
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA LIVE 10
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836364&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY INFO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY INFO
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040606&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY HIGHLIGHTS
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY HIGHLIGHTS
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040605&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040604&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 2
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040603&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 3
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040602&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 4
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040601&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 5
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 5
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040600&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 6
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 6
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040599&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 7
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 7
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040598&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 8
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040597&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 9
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 9
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040596&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 10
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 10
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040595&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 11
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 11
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040594&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 12
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 12
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040593&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 13
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 13
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040592&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 14
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 14
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040591&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 15
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 15
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040590&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 16
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 16
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040589&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 17
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 17
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040588&extension=ts
