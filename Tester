@@ -1,33 +1,9 @@
-#EXTINF:-1 tvg-id="811" tvg-name="[MY] ASTRO ASSP HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my.png" group-title=group-title="D4",ASTRO ASSP HD
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 808" tvg-logo="http://www.cloudnspro.xyz/esmi/assp.png" group-title="C3",ASSP 808
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://ktiptv.co:443/live/w3345/2772749483626/26312.m3u8
-
-#EXTINF:-1 tvg-id="812" tvg-name="[MY] ASTRO ASSP2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my_2.png" group-title=group-title="D4",ASTRO ASSP2 HD
+http://139.99.90.11:80/live/1159189903/4938860969/2075.m3u8?expires=1668939813
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 809" tvg-logo="http://www.cloudnspro.xyz/esmi/assp.png" group-title="C3",ASSP 809
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://ktiptv.co:443/live/w3345/2772749483626/26313.m3u8
-
-#EXTINF:-1 tvg-id="813" tvg-name="[MY] ASTRO ASSP3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my_3.png" group-title=group-title="D4",ASTRO ASSP3 HD
+http://139.99.90.11:80/live/1159189903/4938860969/2076.m3u8?expires=1668939813
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 810" tvg-logo="http://www.cloudnspro.xyz/esmi/assp.png" group-title="C3",ASSP 810
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://ktiptv.co:443/live/w3345/2772749483626/26314.m3u8
-
-#EXTINF:-1 tvg-id="814" tvg-name="[MY] ASTRO ASSP4 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my_4.png" group-title=group-title="D4",ASTRO ASSP4 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://ktiptv.co:443/live/w3345/2772749483626/26315.m3u8
-
-#EXTINF:-1 tvg-id="815" tvg-name="[MY] ASTRO ASSP5 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-supersport-5-my.png" group-title=group-title="D4",ASTRO ASSP5 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-
-#EXTINF:-1 tvg-id="811" tvg-name="[MY] ASTRO ASSP HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my.png" group-title=group-title="D4",ASTRO ASSP HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://ktiptv.co:443/live/w3345/2772749483626/26312.m3u8
-#EXTINF:-1 tvg-id="812" tvg-name="[MY] ASTRO ASSP2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my_2.png" group-title=group-title="D4",ASTRO ASSP2 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://ktiptv.co:443/live/w3345/2772749483626/26313.m3u8
-#EXTINF:-1 tvg-id="813" tvg-name="[MY] ASTRO ASSP3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my_3.png" group-title=group-title="D4",ASTRO ASSP3 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://ktiptv.co:443/live/w3345/2772749483626/26314.m3u8
-#EXTINF:-1 tvg-id="814" tvg-name="[MY] ASTRO ASSP4 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my_4.png" group-title=group-title="D4",ASTRO ASSP4 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://ktiptv.co:443/live/w3345/2772749483626/26315.m3u8
-#EXTINF:-1 tvg-id="815" tvg-name="[MY] ASTRO ASSP5 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-supersport-5-my.png" group-title=group-title="D4",ASTRO ASSP5 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://139.99.90.11:80/live/1159189903/4938860969/2077.m3u8?expires=1668939813
