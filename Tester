@@ -19,6 +19,6 @@ http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/265603.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/265596.ts
 
-#EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-BEIN-ENT/BEINE.png" group-title="English" tvg-id="fox.qa" tvg-name="fox.qa", Fox HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PakarTV/pakartv/tv-logos/Fox_HD.png" group-title="English" tvg-id="fox.qa" tvg-name="fox.qa", Fox HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://is.gd/ZgIyEP
