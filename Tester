@@ -1,1 +1,36 @@
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXS6fszK/FMN.png" group-title="English" tvg-id="FMN.id" tvg-name="FMN.id", FMN
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://anevia114.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt0QauEHqdGgL3LurMrW5LNj9EaE08_GJsqw&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Netflix Movies Adventure 1 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/414087.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzgLWnxzbtXsxG1dtMxuVgiELnOkxf8EZCSw&usqp=CAU" group-title="English" tvg-id="" tvg-name="", OSN Movie Action HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptv.speedhd10.com:8080//live/698237333250315/2045118185/93051.ts
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/bfc325e2a7440d70f0c35b9d263e03c8.png" group-title="English" tvg-id="" tvg-name="", OSN Movies Hollywood
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/265603.ts
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR0SheihPNrSTR0-S3kkj812qc8hPkLgJUnC-k=s900-c-k-c0x00ffffff-no-rj" group-title="English" tvg-id="" tvg-name="", MBC Variety Plus
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/265596.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1BADmxNJKP4zZW9hbVqZLWSD78umQBKGpKg&usqp=CAU" group-title="English" tvg-id="" tvg-name="", FOX Movies
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptv.speedhd10.com:8080//live/698237333250315/2045118185/1591.ts
+
+#EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-BEIN-ENT/BEINE.png" group-title="English" tvg-id="fox.qa" tvg-name="fox.qa", Fox HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://is.gd/ZgIyEP
+
+#EXTINF:-1 tvg-logo="http://niceflix.uno:80/images/9e758ae7e3b594ed0a3bb58f5117b3cf.png" group-title="English" tvg-id="" tvg-name="", beIN Series 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://dss.theoneip.tv:8080//live/6ey7CNHSXn/1wVqIXRcPJ/98108.ts
+
+#EXTINF:-1 tvg-logo="http://195.154.156.100:88/Arabic/bein%20series%20(Copy)%20(Copy).png" group-title="English" tvg-id="beinseries2.qa" tvg-name="beinseries2.qa", beIN Series 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://dss.theoneip.tv:8080//live/6ey7CNHSXn/1wVqIXRcPJ/98106.ts
