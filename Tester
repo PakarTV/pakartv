@@ -27,7 +27,7 @@ https://is.gd/ZgIyEP
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PakarTV/pakartv/tv-logos/Starz_In_Black.png" group-title="English" tvg-id="StarzInBlackEast.us" tvg-name="StarzInBlackEast.us", Starz In Black East
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PakarTV/pakartv/tv-logos/Starz_In_Black.png" group-title="English" tvg-id="StarzInBlackEast.us" tvg-name="StarzInBlackEast.us", Starz In Black 
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/228
 
@@ -67,7 +67,7 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/148
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cYggSQj/showtime-showcase.png" group-title="English" tvg-id="ShowtimeShowcaseEast.us" tvg-name="ShowtimeShowcaseEast.us", Showtime Showcase East
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cYggSQj/showtime-showcase.png" group-title="English" tvg-id="ShowtimeShowcaseEast.us" tvg-name="ShowtimeShowcaseEast.us", Showtime Showcase 
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/203
 
