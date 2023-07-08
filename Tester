@@ -119,7 +119,7 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79464&extens
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://is.gd/zaFZan
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQfuXB42A2k923JaRcuB6mfZUa5VmObxXw1g&usqp=CAU" group-title="English" tvg-id="StarzComedyEast.us" tvg-name="StarzComedyEast.us", Starz Comedy East
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQfuXB42A2k923JaRcuB6mfZUa5VmObxXw1g&usqp=CAU" group-title="English" tvg-id="StarzComedy.us" tvg-name="StarzComedy.us", Starz Comedy 
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/216
 
@@ -130,3 +130,11 @@ http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/225
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-n0dGtZMqvABmmRpC2A87ni9kZNnDszFNQ&usqp=CAU" group-title="English" tvg-id="StarMoviesHD.hk" tvg-name="StarMoviesHD.hk", Star Movies HD 
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/strmvi.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.4X3wBTZz4KpQAATVeo015AAAAA&pid=Api&P=0&w=300&h=300" group-title="English" tvg-id="ShowtimeNext.us" tvg-name="ShowtimeNext.us", Showtime Next 
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://is.gd/MaoFij
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.siGk_3wwTOIdzMlF606P_wAAAA&pid=Api&P=0&w=257&h=172" group-title="English" tvg-id="ShowtimeFamilyZone.us" tvg-name="ShowtimeFamilyZone.us", Showtime Family Zone 
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/199
