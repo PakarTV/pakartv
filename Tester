@@ -227,3 +227,6 @@ http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/507954.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyNdg7N8M073OImac5TSPomNgBGMIq1RrGg&usqp=CAU" group-title="English" tvg-id="HBOZone.us" tvg-name="HBOZone.us", HBO Zone 
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/175
+
+#EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna
+http://axcestv.vip:8080/freeview/axcestv/456
