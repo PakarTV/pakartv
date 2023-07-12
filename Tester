@@ -227,3 +227,6 @@ http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/507954.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyNdg7N8M073OImac5TSPomNgBGMIq1RrGg&usqp=CAU" group-title="English" tvg-id="HBOZone.us" tvg-name="HBOZone.us", HBO Zone 
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/175
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210724/20210724151935567nih.png" group-title="Lifestyle & Documentary" tvg-id="502" tvg-name="502", Love Nature HD
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
