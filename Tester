@@ -1,2 +1,8 @@
 #EXTINF:-1 group-title="Pakar TV Astro" ch-number="100" tvg-id="Enjoy TV5" tvg-chno="100" tvg-logo="https://raw.githubusercontent.com/PakarTV/pakartv/tv-logos/Enjoy_TV5.png",Enjoy TV5
 https://live.mana2.my/Mytv/index.m3u8|User-Agent=Mozilla
+
+#EXTINF:-1 tvg-id="Ria.my" tvg-name="Astro Ria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png" tvg-chno="13" channel-id="13" tvg-group="MY/SG" group-title="MYSG",Astro Ria
+http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Warna.my" tvg-name="Astro Warna" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png" tvg-chno="14" channel-id="14" tvg-group="MY/SG" group-title="MYSG",Astro Warna
+http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
