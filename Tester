@@ -1,2 +1,2 @@
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="100" tvg-id="100" tvg-chno="100" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=198648102",CH100
+#EXTINF:-1 group-title="Pakar TV Astro" ch-number="100" tvg-id="Enjoy TV5" tvg-chno="100" tvg-logo="https://raw.githubusercontent.com/PakarTV/pakartv/tv-logos/Enjoy_TV5.png",Enjoy TV5
 https://live.mana2.my/Mytv/index.m3u8|User-Agent=Mozilla
