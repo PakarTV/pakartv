@@ -2,3 +2,18 @@
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="Pakar TV Astro" tvg-logo="https://raw.githubusercontent.com/PakarTV/pakartv/tv-logos/tvN_Movies.jpg",TVN Movies 
 https://nxanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1001
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PakarTV/pakartv/tv-logos/tvN.png",tvN HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1001
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PakarTV/pakartv/tv-logos/tvN.png",tvN HD
+https://nxanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="Pakar TV Astro" tvg-logo="https://raw.githubusercontent.com/PakarTV/pakartv/tv-logos/tvN_Movies.jpg",TVN Movies 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
