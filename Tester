@@ -30,5 +30,5 @@ https://nxanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2406
 #EXTINF:-1 group-title="Pakar TV Astro" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn%20movies.png",tvN Movies HD 5
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
+https://nxanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 https://aqfadtv.xyz/live/tvn movies/index.mpd
