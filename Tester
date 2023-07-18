@@ -1,7 +1,7 @@
 ########################## SPORTS ##########################
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 1 (K*)
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/PakarTV/pakartv/tv-logos/beIN_Sports_1.png",BeIn Sports 1 
 http://kuchini.site:8080/Raionew/2e1df8e7/165105
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
