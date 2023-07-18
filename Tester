@@ -410,22 +410,17 @@ https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099185
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099186
 
-#EXTINF: -1 tvg-id="canalsport.fr" tvg-name="CANAL+ SPORT 1" tvg-logo="https://logo.iptveditor.com/canalsport.png" group-title="SPORT HD", CANAL+ SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099187
-
-#EXTINF: -1 tvg-id="canalsport.fr" tvg-name="CANAL+ SPORT 2" tvg-logo="https://logo.iptveditor.com/canalsport3.png" group-title="SPORT HD", CANAL+ SPORT 2
+#EXTINF: -1 tvg-id="canalsport.fr" tvg-name="CANAL+ SPORT 2" tvg-logo="https://raw.githubusercontent.com/PakarTV/pakartv/tv-logos/+Sport.png" group-title="SPORT HD", CANAL+ SPORT 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099188
 
-#EXTINF: -1 tvg-id="canalsport.pl" tvg-name="CANAL+ SPORT 1 POLAND" tvg-logo="https://logo.iptveditor.com/canal+sport.png" group-title="SPORT HD", CANAL+ SPORT 1 POLAND
+#EXTINF: -1 tvg-id="canalsport.pl" tvg-name="CANAL+ SPORT 1 POLAND" tvg-logo="https://raw.githubusercontent.com/PakarTV/pakartv/tv-logos/Canal+_Sport.png" group-title="SPORT HD", CANAL+ SPORT 🇵🇱
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099189
 
-#EXTINF: -1 tvg-id="canalsport2.pl" tvg-name="CANAL+ SPORT 2 POLAND" tvg-logo="https://logo.iptveditor.com/canal+sport2.png" group-title="SPORT HD", CANAL+ SPORT 2 POLAND
+#EXTINF: -1 tvg-id="canalsport2.pl" tvg-name="CANAL+ SPORT 2 POLAND" tvg-logo="https://raw.githubusercontent.com/PakarTV/pakartv/tv-logos/Canal+_Sport_2.png" group-title="SPORT HD", CANAL+ SPORT 2 🇵🇱
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099190
