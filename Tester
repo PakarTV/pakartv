@@ -1,5 +1,6 @@
 ########################## SPORTS ##########################
 
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 1 (K*)
 http://kuchini.site:8080/Raionew/2e1df8e7/165105
 
@@ -63,6 +64,7 @@ http://210.210.155.35:80/uq2663/h/h09/01.m3u8
 
 ########################## BEIN SPORT ##########################
 
+
 #EXTINF:-1 group-title="BEIN SPORT" tvg-logo="https://thumbor.prod.vidiocdn.com/Bmv3iTkuSqCj3J2swo0flndH8x8=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg",BEIN SPORTS 1 DZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -85,78 +87,97 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099251
+
 #EXTINF: -1 tvg-id="beinsports1englishdigital.en" tvg-name="beIN Sports English 2" tvg-logo="https://logo.iptveditor.com/aubeinsports2.png" group-title="BEIN SPORT", beIN Sports English 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099252
+
 #EXTINF: -1 tvg-id="beinsports1englishdigital.en" tvg-name="beIN Sports English 3" tvg-logo="https://logo.iptveditor.com/aubeinsports3.png" group-title="BEIN SPORT", beIN Sports English 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099253
+
 #EXTINF: -1 tvg-name="beIN Sports Premium 1" tvg-logo="https://logo.iptveditor.com/beinsports1premiummea.png" group-title="BEIN SPORT", beIN Sports Premium 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099254
+
 #EXTINF: -1 tvg-name="beIN Sports Premium 2" tvg-logo="https://logo.iptveditor.com/beinsports2premiummea.png" group-title="BEIN SPORT", beIN Sports Premium 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099255
+
 #EXTINF: -1 tvg-name="beIN Sports Premium 3" tvg-logo="https://logo.iptveditor.com/beinsports3premiummea.png" group-title="BEIN SPORT", beIN Sports Premium 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099256
+
 #EXTINF: -1 tvg-name="beIN Sports 1" tvg-logo="https://logo.iptveditor.com/beinsports1.png" group-title="BEIN SPORT", beIN Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099257
+
 #EXTINF: -1 tvg-name="beIN Sports 2" tvg-logo="https://logo.iptveditor.com/beinsports2.png" group-title="BEIN SPORT", beIN Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099258
+
 #EXTINF: -1 tvg-name="beIN Sports 3" tvg-logo="https://logo.iptveditor.com/beinsports3.png" group-title="BEIN SPORT", beIN Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099259
+
 #EXTINF: -1 tvg-name="beIN Sports 4" tvg-logo="https://logo.iptveditor.com/beinsports4.png" group-title="BEIN SPORT", beIN Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099260
+
 #EXTINF: -1 tvg-name="beIN Sports 5" tvg-logo="https://logo.iptveditor.com/beinsports5.png" group-title="BEIN SPORT", beIN Sports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099261
+
 #EXTINF: -1 tvg-name="beIN Sports 6" tvg-logo="https://logo.iptveditor.com/beinsports6.png" group-title="BEIN SPORT", beIN Sports 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099262
+
 #EXTINF: -1 tvg-name="beIN Sports 7" tvg-logo="https://logo.iptveditor.com/beinsports7.png" group-title="BEIN SPORT", beIN Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099263
+
 #EXTINF: -1 tvg-id="beinsports1.fr" tvg-name="beIN Sports France 1" tvg-logo="https://logo.iptveditor.com/beinsports1.png" group-title="BEIN SPORT", beIN Sports France 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099264
+
 #EXTINF: -1 tvg-id="beinsports2.fr" tvg-name="beIN Sports France 2" tvg-logo="https://logo.iptveditor.com/beinsports2.png" group-title="BEIN SPORT", beIN Sports France 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099265
+
 #EXTINF: -1 tvg-id="beinsports3.fr" tvg-name="beIN Sports France 3" tvg-logo="https://logo.iptveditor.com/beinsports3.png" group-title="BEIN SPORT", beIN Sports France 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099266
+
 #EXTINF: -1 tvg-id="beinsport1.tr" tvg-name="beIN Sports Turkiye 1" tvg-logo="https://logo.iptveditor.com/beinsports1.png" group-title="BEIN SPORT", beIN Sports Turkiye 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099267
+
 #EXTINF: -1 tvg-id="beinsport2.tr" tvg-name="beIN Sports Turkiye 2" tvg-logo="https://logo.iptveditor.com/beinsports2.png" group-title="BEIN SPORT", beIN Sports Turkiye 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099268
+
 #EXTINF: -1 tvg-id="beinsport3.tr" tvg-name="beIN Sports Turkiye 3" tvg-logo="https://logo.iptveditor.com/beinsports3.png" group-title="BEIN SPORT", beIN Sports Turkiye 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099269
+
 #EXTINF: -1 tvg-id="beinsport4.tr" tvg-name="beIN Sports Turkiye 4" tvg-logo="https://logo.iptveditor.com/beinsports4.png" group-title="BEIN SPORT", beIN Sports Turkiye 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
@@ -180,10 +201,6 @@ https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099139
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099140
-
-#EXTINF: -1 tvg-id="btsportespn.uk" tvg-name="BT SPORT ESPN" tvg-logo="https://logo.iptveditor.com/btsportespn.png" group-title="SPORT HD", BT SPORT ESPN
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099141
 
 #EXTINF: -1 tvg-id="skysportsaction.uk" tvg-name="SKY SPORTS ACTION" tvg-logo="https://logo.iptveditor.com/skysportsaction.png" group-title="SPORT HD", SKY SPORTS ACTION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -245,32 +262,17 @@ https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099152
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099153
 
-#EXTINF: -1 tvg-id="usanetwork.us" tvg-name="USA NETWORK" tvg-logo="https://logo.iptveditor.com/network.png" group-title="SPORT HD", USA NETWORK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099154
-
 #EXTINF: -1 tvg-id="cbssportsnetwork.us" tvg-name="CBS SPORTS NETWORK" tvg-logo="https://logo.iptveditor.com/cbssportsnetwork.png" group-title="SPORT HD", CBS SPORTS NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099155
 
-#EXTINF: -1 tvg-id="nbcnetwork.us" tvg-name="CNBC NETWORK" tvg-logo="https://logo.iptveditor.com/cnbc.png" group-title="SPORT HD", CNBC NETWORK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099156
-
-#EXTINF: -1 tvg-id="cnbc.us" tvg-name="NBC USA" tvg-logo="https://logo.iptveditor.com/nbc.png" group-title="SPORT HD", NBC USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099157
-
-#EXTINF: -1 tvg-id="espn.us" tvg-name="ESPN 1 US" tvg-logo="https://logo.iptveditor.com/espn.png" group-title="SPORT HD", ESPN 1 US
+#EXTINF: -1 tvg-id="espn.us" tvg-name="ESPN 1 US" tvg-logo="https://logo.iptveditor.com/espn.png" group-title="SPORT HD", ESPN 1 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099158
 
-#EXTINF: -1 tvg-id="espn2.us" tvg-name="ESPN 2 US" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="SPORT HD", ESPN 2 US
+#EXTINF: -1 tvg-id="espn2.us" tvg-name="ESPN 2 US" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="SPORT HD", ESPN 2 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099159
@@ -395,17 +397,17 @@ https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099182
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099183
 
-#EXTINF: -1 tvg-id="elevensports1.pt" tvg-name="ELEVEN SPORTS 1 PORTUGAL" tvg-logo="https://logo.iptveditor.com/elevensport1.png" group-title="SPORT HD", ELEVEN SPORTS 1 PORTUGAL
+#EXTINF: -1 tvg-id="elevensports1.pt" tvg-name="ELEVEN SPORTS 1 PORTUGAL" tvg-logo="https://logo.iptveditor.com/elevensport1.png" group-title="SPORT HD", ELEVEN SPORTS 1 🇵🇹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099184
 
-#EXTINF: -1 tvg-id="elevensports2.pt" tvg-name="ELEVEN SPORTS 2 PORTUGAL" tvg-logo="https://logo.iptveditor.com/elevensport2.png" group-title="SPORT HD", ELEVEN SPORTS 2 PORTUGAL
+#EXTINF: -1 tvg-id="elevensports2.pt" tvg-name="ELEVEN SPORTS 2 PORTUGAL" tvg-logo="https://logo.iptveditor.com/elevensport2.png" group-title="SPORT HD", ELEVEN SPORTS 2 🇵🇹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099185
 
-#EXTINF: -1 tvg-id="elevensports3.pt" tvg-name="ELEVEN SPORTS 3 PORTUGAL" tvg-logo="https://logo.iptveditor.com/elevensport3.png" group-title="SPORT HD", ELEVEN SPORTS 3 PORTUGAL
+#EXTINF: -1 tvg-id="elevensports3.pt" tvg-name="ELEVEN SPORTS 3 PORTUGAL" tvg-logo="https://logo.iptveditor.com/elevensport3.png" group-title="SPORT HD", ELEVEN SPORTS 3 🇵🇹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099186
@@ -630,11 +632,6 @@ https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099230
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099231
 
-#EXTINF: -1 tvg-name="MATCH SPORT" tvg-logo="https://logo.iptveditor.com/matchnashsport.png" group-title="SPORT HD", MATCH SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099232
-
 #EXTINF: -1 tvg-name="MATCH FUTBOL 1" tvg-logo="https://logo.iptveditor.com/matchfutbol1.png" group-title="SPORT HD", MATCH FUTBOL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
@@ -665,16 +662,6 @@ https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099237
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099238
 
-#EXTINF: -1 tvg-id="tnt.us" tvg-name="TNT HD" tvg-logo="https://logo.iptveditor.com/tnt.png" group-title="SPORT HD", TNT HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099239
-
-#EXTINF: -1 tvg-name="NOVA SPORT" tvg-logo="https://logo.iptveditor.com/novasport.png" group-title="SPORT HD", NOVA SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099240
-
 #EXTINF: -1 tvg-name="SPORTV 1" tvg-logo="https://logo.iptveditor.com/sportv.png" group-title="SPORT HD", SPORTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
@@ -695,7 +682,7 @@ https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099243
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099244
 
-#EXTINF: -1 tvg-id="nbatv.us" tvg-name="NBA TV US" tvg-logo="https://logo.iptveditor.com/nbatv.png" group-title="SPORT HD", NBA TV US
+#EXTINF: -1 tvg-id="nbatv.us" tvg-name="NBA TV US" tvg-logo="https://logo.iptveditor.com/nbatv.png" group-title="SPORT HD", NBA TV 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099245
