@@ -31,120 +31,120 @@ http://210.210.155.35:80/uq2663/h/h09/01.m3u8
 ########################## BEIN SPORT ##########################
 
 
-#EXTINF:-1 group-title="BEIN SPORT" tvg-logo="https://thumbor.prod.vidiocdn.com/Bmv3iTkuSqCj3J2swo0flndH8x8=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg",BEIN SPORTS 1 DZ
+#EXTINF:-1 group-title="Pakar TV Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/Bmv3iTkuSqCj3J2swo0flndH8x8=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg",BEIN SPORTS 1 DZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/stream.mpd
 
-#EXTINF:-1 group-title="BEIN SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkdtDpCFP54s-zsr6Us2mx3EjpQpxNYQqgag&usqp=CAU",BEIN SPORTS 2 DZ
+#EXTINF:-1 group-title="Pakar TV Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkdtDpCFP54s-zsr6Us2mx3EjpQpxNYQqgag&usqp=CAU",BEIN SPORTS 2 DZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
 
-#EXTINF:-1 group-title="BEIN SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQUMU1fhQzoAr2Hm6jR4JZWtaY5452ap2AzA&usqp=CAU",BEIN SPORTS 3 DZ
+#EXTINF:-1 group-title="Pakar TV Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQUMU1fhQzoAr2Hm6jR4JZWtaY5452ap2AzA&usqp=CAU",BEIN SPORTS 3 DZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
 
-#EXTINF: -1 tvg-id="beinsports1englishdigital.en" tvg-name="beIN Sports English 1" tvg-logo="https://logo.iptveditor.com/beinsports.png" group-title="BEIN SPORT", beIN Sports English 1
+#EXTINF: -1 tvg-id="beinsports1englishdigital.en" tvg-name="beIN Sports English 1" tvg-logo="https://logo.iptveditor.com/beinsports.png" group-title="Pakar TV Sports", beIN Sports English 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099251
 
-#EXTINF: -1 tvg-id="beinsports1englishdigital.en" tvg-name="beIN Sports English 2" tvg-logo="https://logo.iptveditor.com/aubeinsports2.png" group-title="BEIN SPORT", beIN Sports English 2
+#EXTINF: -1 tvg-id="beinsports1englishdigital.en" tvg-name="beIN Sports English 2" tvg-logo="https://logo.iptveditor.com/aubeinsports2.png" group-title="Pakar TV Sports", beIN Sports English 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099252
 
-#EXTINF: -1 tvg-id="beinsports1englishdigital.en" tvg-name="beIN Sports English 3" tvg-logo="https://logo.iptveditor.com/aubeinsports3.png" group-title="BEIN SPORT", beIN Sports English 3
+#EXTINF: -1 tvg-id="beinsports1englishdigital.en" tvg-name="beIN Sports English 3" tvg-logo="https://logo.iptveditor.com/aubeinsports3.png" group-title="Pakar TV Sports", beIN Sports English 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099253
 
-#EXTINF: -1 tvg-name="beIN Sports Premium 1" tvg-logo="https://logo.iptveditor.com/beinsports1premiummea.png" group-title="BEIN SPORT", beIN Sports Premium 1
+#EXTINF: -1 tvg-name="beIN Sports Premium 1" tvg-logo="https://logo.iptveditor.com/beinsports1premiummea.png" group-title="Pakar TV Sports", beIN Sports Premium 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099254
 
-#EXTINF: -1 tvg-name="beIN Sports Premium 2" tvg-logo="https://logo.iptveditor.com/beinsports2premiummea.png" group-title="BEIN SPORT", beIN Sports Premium 2
+#EXTINF: -1 tvg-name="beIN Sports Premium 2" tvg-logo="https://logo.iptveditor.com/beinsports2premiummea.png" group-title="Pakar TV Sports", beIN Sports Premium 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099255
 
-#EXTINF: -1 tvg-name="beIN Sports Premium 3" tvg-logo="https://logo.iptveditor.com/beinsports3premiummea.png" group-title="BEIN SPORT", beIN Sports Premium 3
+#EXTINF: -1 tvg-name="beIN Sports Premium 3" tvg-logo="https://logo.iptveditor.com/beinsports3premiummea.png" group-title="Pakar TV Sports", beIN Sports Premium 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099256
 
-#EXTINF: -1 tvg-name="beIN Sports 1" tvg-logo="https://logo.iptveditor.com/beinsports1.png" group-title="BEIN SPORT", beIN Sports 1
+#EXTINF: -1 tvg-name="beIN Sports 1" tvg-logo="https://logo.iptveditor.com/beinsports1.png" group-title="Pakar TV Sports", beIN Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099257
 
-#EXTINF: -1 tvg-name="beIN Sports 2" tvg-logo="https://logo.iptveditor.com/beinsports2.png" group-title="BEIN SPORT", beIN Sports 2
+#EXTINF: -1 tvg-name="beIN Sports 2" tvg-logo="https://logo.iptveditor.com/beinsports2.png" group-title="Pakar TV Sports", beIN Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099258
 
-#EXTINF: -1 tvg-name="beIN Sports 3" tvg-logo="https://logo.iptveditor.com/beinsports3.png" group-title="BEIN SPORT", beIN Sports 3
+#EXTINF: -1 tvg-name="beIN Sports 3" tvg-logo="https://logo.iptveditor.com/beinsports3.png" group-title="Pakar TV Sports", beIN Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099259
 
-#EXTINF: -1 tvg-name="beIN Sports 4" tvg-logo="https://logo.iptveditor.com/beinsports4.png" group-title="BEIN SPORT", beIN Sports 4
+#EXTINF: -1 tvg-name="beIN Sports 4" tvg-logo="https://logo.iptveditor.com/beinsports4.png" group-title="Pakar TV Sports", beIN Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099260
 
-#EXTINF: -1 tvg-name="beIN Sports 5" tvg-logo="https://logo.iptveditor.com/beinsports5.png" group-title="BEIN SPORT", beIN Sports 5
+#EXTINF: -1 tvg-name="beIN Sports 5" tvg-logo="https://logo.iptveditor.com/beinsports5.png" group-title="Pakar TV Sports", beIN Sports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099261
 
-#EXTINF: -1 tvg-name="beIN Sports 6" tvg-logo="https://logo.iptveditor.com/beinsports6.png" group-title="BEIN SPORT", beIN Sports 6
+#EXTINF: -1 tvg-name="beIN Sports 6" tvg-logo="https://logo.iptveditor.com/beinsports6.png" group-title="Pakar TV Sports", beIN Sports 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099262
 
-#EXTINF: -1 tvg-name="beIN Sports 7" tvg-logo="https://logo.iptveditor.com/beinsports7.png" group-title="BEIN SPORT", beIN Sports 7
+#EXTINF: -1 tvg-name="beIN Sports 7" tvg-logo="https://logo.iptveditor.com/beinsports7.png" group-title="Pakar TV Sports", beIN Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099263
 
-#EXTINF: -1 tvg-id="beinsports1.fr" tvg-name="beIN Sports France 1" tvg-logo="https://logo.iptveditor.com/beinsports1.png" group-title="BEIN SPORT", beIN Sports France 1
+#EXTINF: -1 tvg-id="beinsports1.fr" tvg-name="beIN Sports France 1" tvg-logo="https://logo.iptveditor.com/beinsports1.png" group-title="Pakar TV Sports", beIN Sports France 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099264
 
-#EXTINF: -1 tvg-id="beinsports2.fr" tvg-name="beIN Sports France 2" tvg-logo="https://logo.iptveditor.com/beinsports2.png" group-title="BEIN SPORT", beIN Sports France 2
+#EXTINF: -1 tvg-id="beinsports2.fr" tvg-name="beIN Sports France 2" tvg-logo="https://logo.iptveditor.com/beinsports2.png" group-title="Pakar TV Sports", beIN Sports France 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099265
 
-#EXTINF: -1 tvg-id="beinsports3.fr" tvg-name="beIN Sports France 3" tvg-logo="https://logo.iptveditor.com/beinsports3.png" group-title="BEIN SPORT", beIN Sports France 3
+#EXTINF: -1 tvg-id="beinsports3.fr" tvg-name="beIN Sports France 3" tvg-logo="https://logo.iptveditor.com/beinsports3.png" group-title="Pakar TV Sports", beIN Sports France 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099266
 
-#EXTINF: -1 tvg-id="beinsport1.tr" tvg-name="beIN Sports Turkiye 1" tvg-logo="https://logo.iptveditor.com/beinsports1.png" group-title="BEIN SPORT", beIN Sports Turkiye 1
+#EXTINF: -1 tvg-id="beinsport1.tr" tvg-name="beIN Sports Turkiye 1" tvg-logo="https://logo.iptveditor.com/beinsports1.png" group-title="Pakar TV Sports", beIN Sports Turkiye 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099267
 
-#EXTINF: -1 tvg-id="beinsport2.tr" tvg-name="beIN Sports Turkiye 2" tvg-logo="https://logo.iptveditor.com/beinsports2.png" group-title="BEIN SPORT", beIN Sports Turkiye 2
+#EXTINF: -1 tvg-id="beinsport2.tr" tvg-name="beIN Sports Turkiye 2" tvg-logo="https://logo.iptveditor.com/beinsports2.png" group-title="Pakar TV Sports", beIN Sports Turkiye 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099268
 
-#EXTINF: -1 tvg-id="beinsport3.tr" tvg-name="beIN Sports Turkiye 3" tvg-logo="https://logo.iptveditor.com/beinsports3.png" group-title="BEIN SPORT", beIN Sports Turkiye 3
+#EXTINF: -1 tvg-id="beinsport3.tr" tvg-name="beIN Sports Turkiye 3" tvg-logo="https://logo.iptveditor.com/beinsports3.png" group-title="Pakar TV Sports", beIN Sports Turkiye 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099269
 
-#EXTINF: -1 tvg-id="beinsport4.tr" tvg-name="beIN Sports Turkiye 4" tvg-logo="https://logo.iptveditor.com/beinsports4.png" group-title="BEIN SPORT", beIN Sports Turkiye 4
+#EXTINF: -1 tvg-id="beinsport4.tr" tvg-name="beIN Sports Turkiye 4" tvg-logo="https://logo.iptveditor.com/beinsports4.png" group-title="Pakar TV Sports", beIN Sports Turkiye 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099270
