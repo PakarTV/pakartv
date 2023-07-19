@@ -22,7 +22,7 @@ https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880728
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-035/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://kiwimelon46.000webhostapp.com/tv/motorvisiontv.png" group-title="SPORTS" ,MOTORVISIONTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PakarTV/pakartv/tv-logos/Motorvision_TV.png" group-title="SPORTS" ,MOTORVISIONTV
 http://210.210.155.35:80/uq2663/h/h09/01.m3u8
 
 
