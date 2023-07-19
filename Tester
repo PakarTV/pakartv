@@ -4,32 +4,16 @@
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/PakarTV/pakartv/tv-logos/beIN_Sports_1.png",BeIn Sports 1 
 http://kuchini.site:8080/Raionew/2e1df8e7/165105
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV
-https://nxanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV (K*)
-http://kuchini.site:8080/Raionew/2e1df8e7/298570
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
-https://nxanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2 (K*)
-http://kuchini.site:8080/Raionew/2e1df8e7/298571
-
-#EXTINF: -1 tvg-name="Champions TV 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Champions_TV_1_HD_%282021%29.png" group-title="SPORTS", Champions TV 1 (M*)
+#EXTINF: -1 tvg-name="Champions TV 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Champions_TV_1_HD_%282021%29.png" group-title="SPORTS", Champions TV 1 
 https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880724
 
-#EXTINF: -1 tvg-name="Champions TV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Champions_TV_2_HD.png" group-title="SPORTS", Champions TV 2 (M*)
+#EXTINF: -1 tvg-name="Champions TV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Champions_TV_2_HD.png" group-title="SPORTS", Champions TV 2
 https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880725
 
-#EXTINF:-1 tvg-id="UseeSports" tvg-logo="https://i.imgur.com/Wzd9tZR.png" group-title="SPORTS",Usee Sports (K*)
+#EXTINF:-1 tvg-id="UseeSports" tvg-logo="https://i.imgur.com/Wzd9tZR.png" group-title="SPORTS",Usee Sports 
 http://kuchini.site:8080/Raionew/2e1df8e7/298577
 
-#EXTINF: -1 tvg-name="UsseSport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Usee_Sports.png" group-title="SPORTS", UsseSport 2 (M*)
+#EXTINF: -1 tvg-name="UsseSport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Usee_Sports.png" group-title="SPORTS", UsseSport 2 
 https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880728
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png",NBA TV DZ
@@ -37,26 +21,6 @@ https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880728
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-035/stream.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.jpg",MNC Sports 1
-https://nxanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",MNC Sports 2
-https://nxanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",MNC Sports 3
-https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel
-https://nxanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://kiwimelon46.000webhostapp.com/tv/motorvisiontv.png" group-title="SPORTS" ,MOTORVISIONTV
 http://210.210.155.35:80/uq2663/h/h09/01.m3u8
@@ -492,11 +456,6 @@ https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099202
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099203
 
-#EXTINF: -1 tvg-name="DAZN F1" tvg-logo="https://logo.iptveditor.com/daznf1.png" group-title="SPORT HD", DAZN F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099204
-
 #EXTINF: -1 tvg-name="DAZN 1" tvg-logo="https://logo.iptveditor.com/dazn1.png" group-title="SPORT HD", DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
@@ -696,11 +655,6 @@ https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099246
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099247
-
-#EXTINF: -1 tvg-name="UFC FIGHT PASS" tvg-logo="https://logo.iptveditor.com/ufcfightpass.png" group-title="SPORT HD", UFC FIGHT PASS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099248
 
 #EXTINF: -1 tvg-id="realmadridtv.es" tvg-name="REAL MADRID TV" tvg-logo="https://logo.iptveditor.com/realmadridtv.png" group-title="SPORT HD", REAL MADRID TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
